@@ -1,0 +1,19 @@
+M3 Expressive animated icons
+Copyright 2026 Marco Morosi
+
+This product includes icons derived from Material Symbols
+(https://github.com/google/material-design-icons), Copyright Google LLC,
+licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Modifications made to the original icons (Apache License 2.0, section 4(b)):
+- path coordinates rescaled from viewBox "0 -960 960 960" to "0 0 24 24"
+  (same geometry, no redrawing)
+- degenerate helper subpaths with zero area removed
+- each icon split into parts (outline plus its holes) and animated
+- output in two formats: animated SVG (SMIL) and Android
+  AnimatedVectorDrawable XML, each in a loop and a one-shot variant
+Every modified file carries a comment stating its origin and the changes.
+
+Source: google/material-design-icons, folder symbols/web, style Rounded,
+weight 400, 24px. Exact upstream commit: see source/UPSTREAM_COMMIT and
+manifest.json ("source_commit").
