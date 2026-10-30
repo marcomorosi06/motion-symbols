@@ -93,3 +93,5 @@ For loop variants, check whether the Compose painter honors `repeatCount="-1"`. 
 - Icons: derived from Google Material Symbols, Apache License 2.0.
 - Original source: [google/material-design-icons](https://github.com/google/material-design-icons).
 - See [LICENSE](LICENSE), [NOTICE](NOTICE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for licensing and attribution details.
+
+This project is not affiliated with, endorsed by, or sponsored by Google.
