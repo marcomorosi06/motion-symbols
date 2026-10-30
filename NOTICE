@@ -15,5 +15,5 @@ Modifications made to the original icons (Apache License 2.0, section 4(b)):
 Every modified file carries a comment stating its origin and the changes.
 
 Source: google/material-design-icons, folder symbols/web, style Rounded,
-weight 400, 24px. Exact upstream commit: see source/UPSTREAM_COMMIT and
-manifest.json ("source_commit").
+weight 400, 24px. Exact upstream commit: see
+manifest.json.
