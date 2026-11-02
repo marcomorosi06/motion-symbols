@@ -3,6 +3,8 @@
  "source_commit": "10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7",
  "order": "alphabetical (C locale)",
  "chunk_size": "variable (see chunk of each icon)",
+ "completed": 370,
+ "total": 4157,
  "icons": [
   {
    "name": "10k",
@@ -1614,8 +1616,8 @@
     "android_loop": "android/drawable/avd_accessibility_new_loop.xml",
     "android_oneshot": "android/drawable/avd_accessibility_new_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "accessible",
@@ -1637,8 +1639,8 @@
     "android_loop": "android/drawable/avd_accessible_loop.xml",
     "android_oneshot": "android/drawable/avd_accessible_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "accessible_forward",
@@ -1660,8 +1662,8 @@
     "android_loop": "android/drawable/avd_accessible_forward_loop.xml",
     "android_oneshot": "android/drawable/avd_accessible_forward_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "accessible_menu",
@@ -1684,8 +1686,8 @@
     "android_loop": "android/drawable/avd_accessible_menu_loop.xml",
     "android_oneshot": "android/drawable/avd_accessible_menu_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_balance",
@@ -1708,8 +1710,8 @@
     "android_loop": "android/drawable/avd_account_balance_loop.xml",
     "android_oneshot": "android/drawable/avd_account_balance_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_balance_wallet",
@@ -1730,8 +1732,8 @@
     "android_loop": "android/drawable/avd_account_balance_wallet_loop.xml",
     "android_oneshot": "android/drawable/avd_account_balance_wallet_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_box",
@@ -1751,8 +1753,8 @@
     "android_loop": "android/drawable/avd_account_box_loop.xml",
     "android_oneshot": "android/drawable/avd_account_box_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_child",
@@ -1773,8 +1775,8 @@
     "android_loop": "android/drawable/avd_account_child_loop.xml",
     "android_oneshot": "android/drawable/avd_account_child_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_child_invert",
@@ -1794,8 +1796,8 @@
     "android_loop": "android/drawable/avd_account_child_invert_loop.xml",
     "android_oneshot": "android/drawable/avd_account_child_invert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_circle",
@@ -1815,8 +1817,8 @@
     "android_loop": "android/drawable/avd_account_circle_loop.xml",
     "android_oneshot": "android/drawable/avd_account_circle_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_circle_off",
@@ -1838,8 +1840,8 @@
     "android_loop": "android/drawable/avd_account_circle_off_loop.xml",
     "android_oneshot": "android/drawable/avd_account_circle_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "account_tree",
@@ -1860,8 +1862,8 @@
     "android_loop": "android/drawable/avd_account_tree_loop.xml",
     "android_oneshot": "android/drawable/avd_account_tree_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "action_key",
@@ -1883,8 +1885,8 @@
     "android_loop": "android/drawable/avd_action_key_loop.xml",
     "android_oneshot": "android/drawable/avd_action_key_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "activity_zone",
@@ -1910,8 +1912,8 @@
     "android_loop": "android/drawable/avd_activity_zone_loop.xml",
     "android_oneshot": "android/drawable/avd_activity_zone_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "acupuncture",
@@ -1933,8 +1935,8 @@
     "android_loop": "android/drawable/avd_acupuncture_loop.xml",
     "android_oneshot": "android/drawable/avd_acupuncture_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "acute",
@@ -1957,8 +1959,8 @@
     "android_loop": "android/drawable/avd_acute_loop.xml",
     "android_oneshot": "android/drawable/avd_acute_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ad",
@@ -1977,8 +1979,8 @@
     "android_loop": "android/drawable/avd_ad_loop.xml",
     "android_oneshot": "android/drawable/avd_ad_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ad_group",
@@ -1998,8 +2000,8 @@
     "android_loop": "android/drawable/avd_ad_group_loop.xml",
     "android_oneshot": "android/drawable/avd_ad_group_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ad_group_off",
@@ -2021,8 +2023,8 @@
     "android_loop": "android/drawable/avd_ad_group_off_loop.xml",
     "android_oneshot": "android/drawable/avd_ad_group_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ad_off",
@@ -2043,8 +2045,8 @@
     "android_loop": "android/drawable/avd_ad_off_loop.xml",
     "android_oneshot": "android/drawable/avd_ad_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ad_units",
@@ -2064,8 +2066,8 @@
     "android_loop": "android/drawable/avd_ad_units_loop.xml",
     "android_oneshot": "android/drawable/avd_ad_units_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "adaptive_audio_mic",
@@ -2089,8 +2091,8 @@
     "android_loop": "android/drawable/avd_adaptive_audio_mic_loop.xml",
     "android_oneshot": "android/drawable/avd_adaptive_audio_mic_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "adaptive_audio_mic_off",
@@ -2115,8 +2117,8 @@
     "android_loop": "android/drawable/avd_adaptive_audio_mic_off_loop.xml",
     "android_oneshot": "android/drawable/avd_adaptive_audio_mic_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "adb",
@@ -2136,8 +2138,8 @@
     "android_loop": "android/drawable/avd_adb_loop.xml",
     "android_oneshot": "android/drawable/avd_adb_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add",
@@ -2156,8 +2158,8 @@
     "android_loop": "android/drawable/avd_add_loop.xml",
     "android_oneshot": "android/drawable/avd_add_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_2",
@@ -2176,8 +2178,8 @@
     "android_loop": "android/drawable/avd_add_2_loop.xml",
     "android_oneshot": "android/drawable/avd_add_2_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_a_photo",
@@ -2198,8 +2200,8 @@
     "android_loop": "android/drawable/avd_add_a_photo_loop.xml",
     "android_oneshot": "android/drawable/avd_add_a_photo_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_ad",
@@ -2219,8 +2221,8 @@
     "android_loop": "android/drawable/avd_add_ad_loop.xml",
     "android_oneshot": "android/drawable/avd_add_ad_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_alert",
@@ -2241,8 +2243,8 @@
     "android_loop": "android/drawable/avd_add_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_add_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_box",
@@ -2262,8 +2264,8 @@
     "android_loop": "android/drawable/avd_add_box_loop.xml",
     "android_oneshot": "android/drawable/avd_add_box_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_business",
@@ -2284,8 +2286,8 @@
     "android_loop": "android/drawable/avd_add_business_loop.xml",
     "android_oneshot": "android/drawable/avd_add_business_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_call",
@@ -2305,8 +2307,8 @@
     "android_loop": "android/drawable/avd_add_call_loop.xml",
     "android_oneshot": "android/drawable/avd_add_call_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_card",
@@ -2326,8 +2328,8 @@
     "android_loop": "android/drawable/avd_add_card_loop.xml",
     "android_oneshot": "android/drawable/avd_add_card_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_chart",
@@ -2350,8 +2352,8 @@
     "android_loop": "android/drawable/avd_add_chart_loop.xml",
     "android_oneshot": "android/drawable/avd_add_chart_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_circle",
@@ -2371,8 +2373,8 @@
     "android_loop": "android/drawable/avd_add_circle_loop.xml",
     "android_oneshot": "android/drawable/avd_add_circle_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_column_left",
@@ -2392,8 +2394,8 @@
     "android_loop": "android/drawable/avd_add_column_left_loop.xml",
     "android_oneshot": "android/drawable/avd_add_column_left_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_column_right",
@@ -2413,8 +2415,8 @@
     "android_loop": "android/drawable/avd_add_column_right_loop.xml",
     "android_oneshot": "android/drawable/avd_add_column_right_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_comment",
@@ -2434,8 +2436,8 @@
     "android_loop": "android/drawable/avd_add_comment_loop.xml",
     "android_oneshot": "android/drawable/avd_add_comment_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_diamond",
@@ -2455,8 +2457,8 @@
     "android_loop": "android/drawable/avd_add_diamond_loop.xml",
     "android_oneshot": "android/drawable/avd_add_diamond_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_home",
@@ -2476,8 +2478,8 @@
     "android_loop": "android/drawable/avd_add_home_loop.xml",
     "android_oneshot": "android/drawable/avd_add_home_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_home_work",
@@ -2499,8 +2501,8 @@
     "android_loop": "android/drawable/avd_add_home_work_loop.xml",
     "android_oneshot": "android/drawable/avd_add_home_work_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_link",
@@ -2522,8 +2524,8 @@
     "android_loop": "android/drawable/avd_add_link_loop.xml",
     "android_oneshot": "android/drawable/avd_add_link_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_location",
@@ -2543,8 +2545,8 @@
     "android_loop": "android/drawable/avd_add_location_loop.xml",
     "android_oneshot": "android/drawable/avd_add_location_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_location_alt",
@@ -2565,8 +2567,8 @@
     "android_loop": "android/drawable/avd_add_location_alt_loop.xml",
     "android_oneshot": "android/drawable/avd_add_location_alt_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_moderator",
@@ -2586,8 +2588,8 @@
     "android_loop": "android/drawable/avd_add_moderator_loop.xml",
     "android_oneshot": "android/drawable/avd_add_moderator_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_notes",
@@ -2610,8 +2612,8 @@
     "android_loop": "android/drawable/avd_add_notes_loop.xml",
     "android_oneshot": "android/drawable/avd_add_notes_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_photo_alternate",
@@ -2632,8 +2634,8 @@
     "android_loop": "android/drawable/avd_add_photo_alternate_loop.xml",
     "android_oneshot": "android/drawable/avd_add_photo_alternate_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_reaction",
@@ -2656,8 +2658,8 @@
     "android_loop": "android/drawable/avd_add_reaction_loop.xml",
     "android_oneshot": "android/drawable/avd_add_reaction_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_road",
@@ -2681,8 +2683,8 @@
     "android_loop": "android/drawable/avd_add_road_loop.xml",
     "android_oneshot": "android/drawable/avd_add_road_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_row_above",
@@ -2702,8 +2704,8 @@
     "android_loop": "android/drawable/avd_add_row_above_loop.xml",
     "android_oneshot": "android/drawable/avd_add_row_above_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_row_below",
@@ -2723,8 +2725,8 @@
     "android_loop": "android/drawable/avd_add_row_below_loop.xml",
     "android_oneshot": "android/drawable/avd_add_row_below_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_shopping_cart",
@@ -2746,8 +2748,8 @@
     "android_loop": "android/drawable/avd_add_shopping_cart_loop.xml",
     "android_oneshot": "android/drawable/avd_add_shopping_cart_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_task",
@@ -2768,8 +2770,8 @@
     "android_loop": "android/drawable/avd_add_task_loop.xml",
     "android_oneshot": "android/drawable/avd_add_task_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_to_drive",
@@ -2790,8 +2792,8 @@
     "android_loop": "android/drawable/avd_add_to_drive_loop.xml",
     "android_oneshot": "android/drawable/avd_add_to_drive_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_to_home_screen",
@@ -2811,8 +2813,8 @@
     "android_loop": "android/drawable/avd_add_to_home_screen_loop.xml",
     "android_oneshot": "android/drawable/avd_add_to_home_screen_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_to_photos",
@@ -2833,8 +2835,8 @@
     "android_loop": "android/drawable/avd_add_to_photos_loop.xml",
     "android_oneshot": "android/drawable/avd_add_to_photos_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_to_queue",
@@ -2854,8 +2856,8 @@
     "android_loop": "android/drawable/avd_add_to_queue_loop.xml",
     "android_oneshot": "android/drawable/avd_add_to_queue_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "add_triangle",
@@ -2875,8 +2877,8 @@
     "android_loop": "android/drawable/avd_add_triangle_loop.xml",
     "android_oneshot": "android/drawable/avd_add_triangle_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "adf_scanner",
@@ -2896,8 +2898,8 @@
     "android_loop": "android/drawable/avd_adf_scanner_loop.xml",
     "android_oneshot": "android/drawable/avd_adf_scanner_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "adjust",
@@ -2917,8 +2919,8 @@
     "android_loop": "android/drawable/avd_adjust_loop.xml",
     "android_oneshot": "android/drawable/avd_adjust_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "admin_meds",
@@ -2938,8 +2940,8 @@
     "android_loop": "android/drawable/avd_admin_meds_loop.xml",
     "android_oneshot": "android/drawable/avd_admin_meds_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "admin_panel_settings",
@@ -2959,8 +2961,8 @@
     "android_loop": "android/drawable/avd_admin_panel_settings_loop.xml",
     "android_oneshot": "android/drawable/avd_admin_panel_settings_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ads_click",
@@ -2981,8 +2983,8 @@
     "android_loop": "android/drawable/avd_ads_click_loop.xml",
     "android_oneshot": "android/drawable/avd_ads_click_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "agender",
@@ -3001,8 +3003,8 @@
     "android_loop": "android/drawable/avd_agender_loop.xml",
     "android_oneshot": "android/drawable/avd_agender_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "agriculture",
@@ -3023,30 +3025,30 @@
     "android_loop": "android/drawable/avd_agriculture_loop.xml",
     "android_oneshot": "android/drawable/avd_agriculture_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "air",
    "index": 136,
    "status": "done",
    "chunk": 3,
-   "concept": "A gust runs through: each wind line uncurls its hooked end into a wider arc and curls it back, one after another.",
+   "concept": "Each gust flows: erased from its tail and drawn in again, one line after another (like airware).",
    "parts": [
     "l0",
     "l1",
     "l2"
    ],
-   "loop_ms": 2100,
-   "gesture_ms": 1200,
+   "loop_ms": 2050,
+   "gesture_ms": 1150,
    "files": {
     "web_loop": "web/loop/air.svg",
     "web_oneshot": "web/oneshot/air.svg",
     "android_loop": "android/drawable/avd_air_loop.xml",
     "android_oneshot": "android/drawable/avd_air_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "air_freshener",
@@ -3071,8 +3073,8 @@
     "android_loop": "android/drawable/avd_air_freshener_loop.xml",
     "android_oneshot": "android/drawable/avd_air_freshener_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "air_purifier",
@@ -3094,8 +3096,8 @@
     "android_loop": "android/drawable/avd_air_purifier_loop.xml",
     "android_oneshot": "android/drawable/avd_air_purifier_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "air_purifier_gen",
@@ -3117,8 +3119,8 @@
     "android_loop": "android/drawable/avd_air_purifier_gen_loop.xml",
     "android_oneshot": "android/drawable/avd_air_purifier_gen_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_flat",
@@ -3139,8 +3141,8 @@
     "android_loop": "android/drawable/avd_airline_seat_flat_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_flat_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_flat_angled",
@@ -3161,8 +3163,8 @@
     "android_loop": "android/drawable/avd_airline_seat_flat_angled_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_flat_angled_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_individual_suite",
@@ -3184,8 +3186,8 @@
     "android_loop": "android/drawable/avd_airline_seat_individual_suite_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_individual_suite_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_legroom_extra",
@@ -3206,8 +3208,8 @@
     "android_loop": "android/drawable/avd_airline_seat_legroom_extra_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_legroom_extra_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_legroom_normal",
@@ -3228,8 +3230,8 @@
     "android_loop": "android/drawable/avd_airline_seat_legroom_normal_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_legroom_normal_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_legroom_reduced",
@@ -3250,8 +3252,8 @@
     "android_loop": "android/drawable/avd_airline_seat_legroom_reduced_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_legroom_reduced_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_recline_extra",
@@ -3274,8 +3276,8 @@
     "android_loop": "android/drawable/avd_airline_seat_recline_extra_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_recline_extra_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_seat_recline_normal",
@@ -3298,8 +3300,8 @@
     "android_loop": "android/drawable/avd_airline_seat_recline_normal_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_seat_recline_normal_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airline_stops",
@@ -3320,8 +3322,8 @@
     "android_loop": "android/drawable/avd_airline_stops_loop.xml",
     "android_oneshot": "android/drawable/avd_airline_stops_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airlines",
@@ -3341,8 +3343,8 @@
     "android_loop": "android/drawable/avd_airlines_loop.xml",
     "android_oneshot": "android/drawable/avd_airlines_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airplane_ticket",
@@ -3362,8 +3364,8 @@
     "android_loop": "android/drawable/avd_airplane_ticket_loop.xml",
     "android_oneshot": "android/drawable/avd_airplane_ticket_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airplanemode_active",
@@ -3384,8 +3386,8 @@
     "android_loop": "android/drawable/avd_airplanemode_active_loop.xml",
     "android_oneshot": "android/drawable/avd_airplanemode_active_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airplanemode_inactive",
@@ -3406,8 +3408,8 @@
     "android_loop": "android/drawable/avd_airplanemode_inactive_loop.xml",
     "android_oneshot": "android/drawable/avd_airplanemode_inactive_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airplay",
@@ -3427,8 +3429,8 @@
     "android_loop": "android/drawable/avd_airplay_loop.xml",
     "android_oneshot": "android/drawable/avd_airplay_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airport_shuttle",
@@ -3447,8 +3449,8 @@
     "android_loop": "android/drawable/avd_airport_shuttle_loop.xml",
     "android_oneshot": "android/drawable/avd_airport_shuttle_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airware",
@@ -3469,8 +3471,8 @@
     "android_loop": "android/drawable/avd_airware_loop.xml",
     "android_oneshot": "android/drawable/avd_airware_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "airwave",
@@ -3491,8 +3493,8 @@
     "android_loop": "android/drawable/avd_airwave_loop.xml",
     "android_oneshot": "android/drawable/avd_airwave_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm",
@@ -3514,8 +3516,8 @@
     "android_loop": "android/drawable/avd_alarm_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm_add",
@@ -3537,8 +3539,8 @@
     "android_loop": "android/drawable/avd_alarm_add_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_add_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm_off",
@@ -3560,8 +3562,8 @@
     "android_loop": "android/drawable/avd_alarm_off_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm_on",
@@ -3583,8 +3585,8 @@
     "android_loop": "android/drawable/avd_alarm_on_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_on_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm_pause",
@@ -3607,8 +3609,8 @@
     "android_loop": "android/drawable/avd_alarm_pause_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_pause_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alarm_smart_wake",
@@ -3632,8 +3634,8 @@
     "android_loop": "android/drawable/avd_alarm_smart_wake_loop.xml",
     "android_oneshot": "android/drawable/avd_alarm_smart_wake_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "album",
@@ -3653,8 +3655,8 @@
     "android_loop": "android/drawable/avd_album_loop.xml",
     "android_oneshot": "android/drawable/avd_album_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_center",
@@ -3675,8 +3677,8 @@
     "android_loop": "android/drawable/avd_align_center_loop.xml",
     "android_oneshot": "android/drawable/avd_align_center_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_end",
@@ -3697,8 +3699,8 @@
     "android_loop": "android/drawable/avd_align_end_loop.xml",
     "android_oneshot": "android/drawable/avd_align_end_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_flex_center",
@@ -3717,8 +3719,8 @@
     "android_loop": "android/drawable/avd_align_flex_center_loop.xml",
     "android_oneshot": "android/drawable/avd_align_flex_center_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_flex_end",
@@ -3738,8 +3740,8 @@
     "android_loop": "android/drawable/avd_align_flex_end_loop.xml",
     "android_oneshot": "android/drawable/avd_align_flex_end_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_flex_start",
@@ -3759,8 +3761,8 @@
     "android_loop": "android/drawable/avd_align_flex_start_loop.xml",
     "android_oneshot": "android/drawable/avd_align_flex_start_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_horizontal_center",
@@ -3783,8 +3785,8 @@
     "android_loop": "android/drawable/avd_align_horizontal_center_loop.xml",
     "android_oneshot": "android/drawable/avd_align_horizontal_center_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_horizontal_left",
@@ -3805,8 +3807,8 @@
     "android_loop": "android/drawable/avd_align_horizontal_left_loop.xml",
     "android_oneshot": "android/drawable/avd_align_horizontal_left_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_horizontal_right",
@@ -3827,8 +3829,8 @@
     "android_loop": "android/drawable/avd_align_horizontal_right_loop.xml",
     "android_oneshot": "android/drawable/avd_align_horizontal_right_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_items_stretch",
@@ -3850,8 +3852,8 @@
     "android_loop": "android/drawable/avd_align_items_stretch_loop.xml",
     "android_oneshot": "android/drawable/avd_align_items_stretch_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_center",
@@ -3872,8 +3874,8 @@
     "android_loop": "android/drawable/avd_align_justify_center_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_center_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_flex_end",
@@ -3894,8 +3896,8 @@
     "android_loop": "android/drawable/avd_align_justify_flex_end_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_flex_end_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_flex_start",
@@ -3916,8 +3918,8 @@
     "android_loop": "android/drawable/avd_align_justify_flex_start_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_flex_start_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_space_around",
@@ -3939,8 +3941,8 @@
     "android_loop": "android/drawable/avd_align_justify_space_around_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_space_around_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_space_between",
@@ -3962,8 +3964,8 @@
     "android_loop": "android/drawable/avd_align_justify_space_between_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_space_between_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_space_even",
@@ -3985,8 +3987,8 @@
     "android_loop": "android/drawable/avd_align_justify_space_even_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_space_even_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_justify_stretch",
@@ -4010,8 +4012,8 @@
     "android_loop": "android/drawable/avd_align_justify_stretch_loop.xml",
     "android_oneshot": "android/drawable/avd_align_justify_stretch_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_self_stretch",
@@ -4032,8 +4034,8 @@
     "android_loop": "android/drawable/avd_align_self_stretch_loop.xml",
     "android_oneshot": "android/drawable/avd_align_self_stretch_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_space_around",
@@ -4055,8 +4057,8 @@
     "android_loop": "android/drawable/avd_align_space_around_loop.xml",
     "android_oneshot": "android/drawable/avd_align_space_around_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_space_between",
@@ -4078,8 +4080,8 @@
     "android_loop": "android/drawable/avd_align_space_between_loop.xml",
     "android_oneshot": "android/drawable/avd_align_space_between_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_space_even",
@@ -4101,8 +4103,8 @@
     "android_loop": "android/drawable/avd_align_space_even_loop.xml",
     "android_oneshot": "android/drawable/avd_align_space_even_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_start",
@@ -4123,8 +4125,8 @@
     "android_loop": "android/drawable/avd_align_start_loop.xml",
     "android_oneshot": "android/drawable/avd_align_start_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_stretch",
@@ -4146,8 +4148,8 @@
     "android_loop": "android/drawable/avd_align_stretch_loop.xml",
     "android_oneshot": "android/drawable/avd_align_stretch_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_vertical_bottom",
@@ -4168,8 +4170,8 @@
     "android_loop": "android/drawable/avd_align_vertical_bottom_loop.xml",
     "android_oneshot": "android/drawable/avd_align_vertical_bottom_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_vertical_center",
@@ -4192,8 +4194,8 @@
     "android_loop": "android/drawable/avd_align_vertical_center_loop.xml",
     "android_oneshot": "android/drawable/avd_align_vertical_center_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "align_vertical_top",
@@ -4214,8 +4216,8 @@
     "android_loop": "android/drawable/avd_align_vertical_top_loop.xml",
     "android_oneshot": "android/drawable/avd_align_vertical_top_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "all_inbox",
@@ -4235,8 +4237,8 @@
     "android_loop": "android/drawable/avd_all_inbox_loop.xml",
     "android_oneshot": "android/drawable/avd_all_inbox_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "all_inclusive",
@@ -4255,8 +4257,8 @@
     "android_loop": "android/drawable/avd_all_inclusive_loop.xml",
     "android_oneshot": "android/drawable/avd_all_inclusive_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "all_match",
@@ -4276,8 +4278,8 @@
     "android_loop": "android/drawable/avd_all_match_loop.xml",
     "android_oneshot": "android/drawable/avd_all_match_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "all_out",
@@ -4300,8 +4302,8 @@
     "android_loop": "android/drawable/avd_all_out_loop.xml",
     "android_oneshot": "android/drawable/avd_all_out_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "allergies",
@@ -4324,8 +4326,8 @@
     "android_loop": "android/drawable/avd_allergies_loop.xml",
     "android_oneshot": "android/drawable/avd_allergies_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "allergy",
@@ -4349,8 +4351,8 @@
     "android_loop": "android/drawable/avd_allergy_loop.xml",
     "android_oneshot": "android/drawable/avd_allergy_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alt_route",
@@ -4371,8 +4373,8 @@
     "android_loop": "android/drawable/avd_alt_route_loop.xml",
     "android_oneshot": "android/drawable/avd_alt_route_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "alternate_email",
@@ -4391,8 +4393,8 @@
     "android_loop": "android/drawable/avd_alternate_email_loop.xml",
     "android_oneshot": "android/drawable/avd_alternate_email_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "altitude",
@@ -4412,8 +4414,8 @@
     "android_loop": "android/drawable/avd_altitude_loop.xml",
     "android_oneshot": "android/drawable/avd_altitude_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ambient_screen",
@@ -4434,8 +4436,8 @@
     "android_loop": "android/drawable/avd_ambient_screen_loop.xml",
     "android_oneshot": "android/drawable/avd_ambient_screen_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "ambulance",
@@ -4459,8 +4461,8 @@
     "android_loop": "android/drawable/avd_ambulance_loop.xml",
     "android_oneshot": "android/drawable/avd_ambulance_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "amend",
@@ -4481,8 +4483,8 @@
     "android_loop": "android/drawable/avd_amend_loop.xml",
     "android_oneshot": "android/drawable/avd_amend_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "amp_stories",
@@ -4503,8 +4505,8 @@
     "android_loop": "android/drawable/avd_amp_stories_loop.xml",
     "android_oneshot": "android/drawable/avd_amp_stories_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "analytics",
@@ -4527,8 +4529,8 @@
     "android_loop": "android/drawable/avd_analytics_loop.xml",
     "android_oneshot": "android/drawable/avd_analytics_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "anchor",
@@ -4547,8 +4549,8 @@
     "android_loop": "android/drawable/avd_anchor_loop.xml",
     "android_oneshot": "android/drawable/avd_anchor_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android",
@@ -4567,8 +4569,8 @@
     "android_loop": "android/drawable/avd_android_loop.xml",
     "android_oneshot": "android/drawable/avd_android_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_4_bar",
@@ -4590,8 +4592,8 @@
     "android_loop": "android/drawable/avd_android_cell_4_bar_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_4_bar_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_4_bar_alert",
@@ -4615,8 +4617,8 @@
     "android_loop": "android/drawable/avd_android_cell_4_bar_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_4_bar_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_4_bar_off",
@@ -4639,8 +4641,8 @@
     "android_loop": "android/drawable/avd_android_cell_4_bar_off_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_4_bar_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_4_bar_plus",
@@ -4663,8 +4665,8 @@
     "android_loop": "android/drawable/avd_android_cell_4_bar_plus_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_4_bar_plus_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_5_bar",
@@ -4687,8 +4689,8 @@
     "android_loop": "android/drawable/avd_android_cell_5_bar_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_5_bar_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_5_bar_alert",
@@ -4713,8 +4715,8 @@
     "android_loop": "android/drawable/avd_android_cell_5_bar_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_5_bar_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_5_bar_off",
@@ -4738,8 +4740,8 @@
     "android_loop": "android/drawable/avd_android_cell_5_bar_off_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_5_bar_off_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_5_bar_plus",
@@ -4763,8 +4765,8 @@
     "android_loop": "android/drawable/avd_android_cell_5_bar_plus_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_5_bar_plus_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_4_bar",
@@ -4790,8 +4792,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_4_bar_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_4_bar_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_4_bar_alert",
@@ -4818,8 +4820,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_4_bar_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_4_bar_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_4_bar_plus",
@@ -4845,8 +4847,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_4_bar_plus_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_4_bar_plus_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_5_bar",
@@ -4874,8 +4876,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_5_bar_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_5_bar_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_5_bar_alert",
@@ -4904,8 +4906,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_5_bar_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_5_bar_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_cell_dual_5_bar_plus",
@@ -4932,8 +4934,8 @@
     "android_loop": "android/drawable/avd_android_cell_dual_5_bar_plus_loop.xml",
     "android_oneshot": "android/drawable/avd_android_cell_dual_5_bar_plus_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar",
@@ -4954,8 +4956,8 @@
     "android_loop": "android/drawable/avd_android_wifi_3_bar_loop.xml",
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar_alert",
@@ -4978,8 +4980,8 @@
     "android_loop": "android/drawable/avd_android_wifi_3_bar_alert_loop.xml",
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_alert_oneshot.xml"
    },
-   "generator": "0.6.0",
-   "date": "2026-10-29"
+   "generator": "0.7.0",
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar_lock",
@@ -5002,7 +5004,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_lock_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar_off",
@@ -5025,7 +5027,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_off_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar_plus",
@@ -5048,7 +5050,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_plus_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_3_bar_question",
@@ -5072,7 +5074,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_3_bar_question_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar",
@@ -5095,7 +5097,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar_alert",
@@ -5120,7 +5122,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_alert_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar_lock",
@@ -5144,7 +5146,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_lock_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar_off",
@@ -5168,7 +5170,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_off_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar_plus",
@@ -5192,7 +5194,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_plus_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "android_wifi_4_bar_question",
@@ -5217,7 +5219,7 @@
     "android_oneshot": "android/drawable/avd_android_wifi_4_bar_question_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "animated_images",
@@ -5239,7 +5241,7 @@
     "android_oneshot": "android/drawable/avd_animated_images_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "animation",
@@ -5260,7 +5262,7 @@
     "android_oneshot": "android/drawable/avd_animation_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "antigravity",
@@ -5280,7 +5282,7 @@
     "android_oneshot": "android/drawable/avd_antigravity_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aod",
@@ -5302,7 +5304,7 @@
     "android_oneshot": "android/drawable/avd_aod_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aod_tablet",
@@ -5324,7 +5326,7 @@
     "android_oneshot": "android/drawable/avd_aod_tablet_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aod_watch",
@@ -5346,7 +5348,7 @@
     "android_oneshot": "android/drawable/avd_aod_watch_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apartment",
@@ -5366,7 +5368,7 @@
     "android_oneshot": "android/drawable/avd_apartment_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "api",
@@ -5390,7 +5392,7 @@
     "android_oneshot": "android/drawable/avd_api_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apk_document",
@@ -5411,7 +5413,7 @@
     "android_oneshot": "android/drawable/avd_apk_document_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apk_install",
@@ -5433,7 +5435,7 @@
     "android_oneshot": "android/drawable/avd_apk_install_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_badging",
@@ -5454,7 +5456,7 @@
     "android_oneshot": "android/drawable/avd_app_badging_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_blocking",
@@ -5475,7 +5477,7 @@
     "android_oneshot": "android/drawable/avd_app_blocking_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_promo",
@@ -5497,7 +5499,7 @@
     "android_oneshot": "android/drawable/avd_app_promo_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_registration",
@@ -5523,7 +5525,7 @@
     "android_oneshot": "android/drawable/avd_app_registration_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_shortcut",
@@ -5544,7 +5546,7 @@
     "android_oneshot": "android/drawable/avd_app_shortcut_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "app_spark",
@@ -5565,7 +5567,7 @@
     "android_oneshot": "android/drawable/avd_app_spark_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apparel",
@@ -5585,7 +5587,7 @@
     "android_oneshot": "android/drawable/avd_apparel_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "approval",
@@ -5606,7 +5608,7 @@
     "android_oneshot": "android/drawable/avd_approval_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "approval_delegation",
@@ -5627,7 +5629,7 @@
     "android_oneshot": "android/drawable/avd_approval_delegation_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "approval_delegation_off",
@@ -5649,7 +5651,7 @@
     "android_oneshot": "android/drawable/avd_approval_delegation_off_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apps",
@@ -5677,7 +5679,7 @@
     "android_oneshot": "android/drawable/avd_apps_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apps_outage",
@@ -5705,7 +5707,7 @@
     "android_oneshot": "android/drawable/avd_apps_outage_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "apps_plus",
@@ -5728,7 +5730,7 @@
     "android_oneshot": "android/drawable/avd_apps_plus_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aq",
@@ -5749,7 +5751,7 @@
     "android_oneshot": "android/drawable/avd_aq_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aq_indoor",
@@ -5772,7 +5774,7 @@
     "android_oneshot": "android/drawable/avd_aq_indoor_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "ar_on_you",
@@ -5799,7 +5801,7 @@
     "android_oneshot": "android/drawable/avd_ar_on_you_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "ar_stickers",
@@ -5823,7 +5825,7 @@
     "android_oneshot": "android/drawable/avd_ar_stickers_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "architecture",
@@ -5845,7 +5847,7 @@
     "android_oneshot": "android/drawable/avd_architecture_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "archive",
@@ -5866,7 +5868,7 @@
     "android_oneshot": "android/drawable/avd_archive_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "area_chart",
@@ -5886,7 +5888,7 @@
     "android_oneshot": "android/drawable/avd_area_chart_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arming_countdown",
@@ -5910,7 +5912,7 @@
     "android_oneshot": "android/drawable/avd_arming_countdown_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_and_edge",
@@ -5934,7 +5936,7 @@
     "android_oneshot": "android/drawable/avd_arrow_and_edge_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_back",
@@ -5954,7 +5956,7 @@
     "android_oneshot": "android/drawable/avd_arrow_back_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_back_2",
@@ -5974,7 +5976,7 @@
     "android_oneshot": "android/drawable/avd_arrow_back_2_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_back_ios",
@@ -5994,7 +5996,7 @@
     "android_oneshot": "android/drawable/avd_arrow_back_ios_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_back_ios_new",
@@ -6014,7 +6016,7 @@
     "android_oneshot": "android/drawable/avd_arrow_back_ios_new_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_circle_down",
@@ -6035,7 +6037,7 @@
     "android_oneshot": "android/drawable/avd_arrow_circle_down_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_circle_left",
@@ -6056,7 +6058,7 @@
     "android_oneshot": "android/drawable/avd_arrow_circle_left_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_circle_right",
@@ -6077,7 +6079,7 @@
     "android_oneshot": "android/drawable/avd_arrow_circle_right_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_circle_up",
@@ -6098,7 +6100,7 @@
     "android_oneshot": "android/drawable/avd_arrow_circle_up_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_cool_down",
@@ -6121,7 +6123,7 @@
     "android_oneshot": "android/drawable/avd_arrow_cool_down_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_downward",
@@ -6142,7 +6144,7 @@
     "android_oneshot": "android/drawable/avd_arrow_downward_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_downward_alt",
@@ -6163,7 +6165,7 @@
     "android_oneshot": "android/drawable/avd_arrow_downward_alt_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_drop_down",
@@ -6183,7 +6185,7 @@
     "android_oneshot": "android/drawable/avd_arrow_drop_down_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_drop_down_circle",
@@ -6204,7 +6206,7 @@
     "android_oneshot": "android/drawable/avd_arrow_drop_down_circle_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_drop_up",
@@ -6224,7 +6226,7 @@
     "android_oneshot": "android/drawable/avd_arrow_drop_up_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_forward",
@@ -6245,7 +6247,7 @@
     "android_oneshot": "android/drawable/avd_arrow_forward_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_forward_ios",
@@ -6265,7 +6267,7 @@
     "android_oneshot": "android/drawable/avd_arrow_forward_ios_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_insert",
@@ -6285,7 +6287,7 @@
     "android_oneshot": "android/drawable/avd_arrow_insert_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_left",
@@ -6305,7 +6307,7 @@
     "android_oneshot": "android/drawable/avd_arrow_left_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_left_alt",
@@ -6326,7 +6328,7 @@
     "android_oneshot": "android/drawable/avd_arrow_left_alt_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_menu_close",
@@ -6347,7 +6349,7 @@
     "android_oneshot": "android/drawable/avd_arrow_menu_close_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_menu_open",
@@ -6368,7 +6370,7 @@
     "android_oneshot": "android/drawable/avd_arrow_menu_open_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_or_edge",
@@ -6391,7 +6393,7 @@
     "android_oneshot": "android/drawable/avd_arrow_or_edge_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_outward",
@@ -6411,7 +6413,7 @@
     "android_oneshot": "android/drawable/avd_arrow_outward_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_range",
@@ -6433,7 +6435,7 @@
     "android_oneshot": "android/drawable/avd_arrow_range_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_right",
@@ -6453,7 +6455,7 @@
     "android_oneshot": "android/drawable/avd_arrow_right_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_right_alt",
@@ -6474,7 +6476,7 @@
     "android_oneshot": "android/drawable/avd_arrow_right_alt_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_selector_tool",
@@ -6494,7 +6496,7 @@
     "android_oneshot": "android/drawable/avd_arrow_selector_tool_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_shape_up",
@@ -6514,7 +6516,7 @@
     "android_oneshot": "android/drawable/avd_arrow_shape_up_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_shape_up_stack",
@@ -6535,7 +6537,7 @@
     "android_oneshot": "android/drawable/avd_arrow_shape_up_stack_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_shape_up_stack_2",
@@ -6557,7 +6559,7 @@
     "android_oneshot": "android/drawable/avd_arrow_shape_up_stack_2_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_split",
@@ -6578,7 +6580,7 @@
     "android_oneshot": "android/drawable/avd_arrow_split_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_top_left",
@@ -6598,7 +6600,7 @@
     "android_oneshot": "android/drawable/avd_arrow_top_left_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_top_right",
@@ -6618,7 +6620,7 @@
     "android_oneshot": "android/drawable/avd_arrow_top_right_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_upload_progress",
@@ -6644,7 +6646,7 @@
     "android_oneshot": "android/drawable/avd_arrow_upload_progress_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_upload_ready",
@@ -6673,7 +6675,7 @@
     "android_oneshot": "android/drawable/avd_arrow_upload_ready_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_upward",
@@ -6694,7 +6696,7 @@
     "android_oneshot": "android/drawable/avd_arrow_upward_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_upward_alt",
@@ -6715,7 +6717,7 @@
     "android_oneshot": "android/drawable/avd_arrow_upward_alt_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrow_warm_up",
@@ -6738,7 +6740,7 @@
     "android_oneshot": "android/drawable/avd_arrow_warm_up_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_input",
@@ -6762,7 +6764,7 @@
     "android_oneshot": "android/drawable/avd_arrows_input_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_left_right_circle",
@@ -6785,7 +6787,7 @@
     "android_oneshot": "android/drawable/avd_arrows_left_right_circle_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_more_down",
@@ -6806,7 +6808,7 @@
     "android_oneshot": "android/drawable/avd_arrows_more_down_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_more_up",
@@ -6827,7 +6829,7 @@
     "android_oneshot": "android/drawable/avd_arrows_more_up_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_output",
@@ -6851,7 +6853,7 @@
     "android_oneshot": "android/drawable/avd_arrows_output_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_outward",
@@ -6872,7 +6874,7 @@
     "android_oneshot": "android/drawable/avd_arrows_outward_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "arrows_up_down_circle",
@@ -6895,7 +6897,7 @@
     "android_oneshot": "android/drawable/avd_arrows_up_down_circle_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "art_track",
@@ -6918,7 +6920,7 @@
     "android_oneshot": "android/drawable/avd_art_track_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "article",
@@ -6941,7 +6943,7 @@
     "android_oneshot": "android/drawable/avd_article_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "article_person",
@@ -6966,7 +6968,7 @@
     "android_oneshot": "android/drawable/avd_article_person_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "article_shortcut",
@@ -6990,7 +6992,7 @@
     "android_oneshot": "android/drawable/avd_article_shortcut_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "artist",
@@ -7012,7 +7014,7 @@
     "android_oneshot": "android/drawable/avd_artist_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "aspect_ratio",
@@ -7034,7 +7036,7 @@
     "android_oneshot": "android/drawable/avd_aspect_ratio_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment",
@@ -7057,7 +7059,7 @@
     "android_oneshot": "android/drawable/avd_assignment_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_add",
@@ -7081,7 +7083,7 @@
     "android_oneshot": "android/drawable/avd_assignment_add_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_globe",
@@ -7105,7 +7107,7 @@
     "android_oneshot": "android/drawable/avd_assignment_globe_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_ind",
@@ -7126,7 +7128,7 @@
     "android_oneshot": "android/drawable/avd_assignment_ind_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_late",
@@ -7148,7 +7150,7 @@
     "android_oneshot": "android/drawable/avd_assignment_late_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_return",
@@ -7169,7 +7171,7 @@
     "android_oneshot": "android/drawable/avd_assignment_return_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_returned",
@@ -7190,257 +7192,1106 @@
     "android_oneshot": "android/drawable/avd_assignment_returned_oneshot.xml"
    },
    "generator": "0.7.0",
-   "date": "2026-10-29"
+   "date": "2026-11-02"
   },
   {
    "name": "assignment_turned_in",
    "index": 321,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The clipboard sways and the check mark is drawn again.",
+   "parts": [
+    "board",
+    "check"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/assignment_turned_in.svg",
+    "web_oneshot": "web/oneshot/assignment_turned_in.svg",
+    "android_loop": "android/drawable/avd_assignment_turned_in_loop.xml",
+    "android_oneshot": "android/drawable/avd_assignment_turned_in_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assist_walker",
    "index": 322,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The person leans on the walker and steps forward twice, the head bobbing.",
+   "parts": [
+    "head",
+    "body"
+   ],
+   "loop_ms": 1680,
+   "gesture_ms": 780,
+   "files": {
+    "web_loop": "web/loop/assist_walker.svg",
+    "web_oneshot": "web/oneshot/assist_walker.svg",
+    "android_loop": "android/drawable/avd_assist_walker_loop.xml",
+    "android_oneshot": "android/drawable/avd_assist_walker_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assistant",
    "index": 323,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The bubble pops from its tail and the sparkle twinkles inside.",
+   "parts": [
+    "spark",
+    "bubble"
+   ],
+   "loop_ms": 1590,
+   "gesture_ms": 690,
+   "files": {
+    "web_loop": "web/loop/assistant.svg",
+    "web_oneshot": "web/oneshot/assistant.svg",
+    "android_loop": "android/drawable/avd_assistant_loop.xml",
+    "android_oneshot": "android/drawable/avd_assistant_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assistant_device",
    "index": 324,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The assistant ring pulses on the device and its light blinks.",
+   "parts": [
+    "ring",
+    "device",
+    "dot"
+   ],
+   "loop_ms": 1510,
+   "gesture_ms": 610,
+   "files": {
+    "web_loop": "web/loop/assistant_device.svg",
+    "web_oneshot": "web/oneshot/assistant_device.svg",
+    "android_loop": "android/drawable/avd_assistant_device_loop.xml",
+    "android_oneshot": "android/drawable/avd_assistant_device_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assistant_direction",
    "index": 325,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The direction sign turns toward its arrow and settles; the ring breathes.",
+   "parts": [
+    "ring",
+    "sign"
+   ],
+   "loop_ms": 1580,
+   "gesture_ms": 680,
+   "files": {
+    "web_loop": "web/loop/assistant_direction.svg",
+    "web_oneshot": "web/oneshot/assistant_direction.svg",
+    "android_loop": "android/drawable/avd_assistant_direction_loop.xml",
+    "android_oneshot": "android/drawable/avd_assistant_direction_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assistant_navigation",
    "index": 326,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The navigation arrow crouches and darts forward, then springs back.",
+   "parts": [
+    "ring",
+    "arrow"
+   ],
+   "loop_ms": 1570,
+   "gesture_ms": 670,
+   "files": {
+    "web_loop": "web/loop/assistant_navigation.svg",
+    "web_oneshot": "web/oneshot/assistant_navigation.svg",
+    "android_loop": "android/drawable/avd_assistant_navigation_loop.xml",
+    "android_oneshot": "android/drawable/avd_assistant_navigation_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assistant_on_hub",
    "index": 327,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The four assistant dots bounce in a wave, twice, like the assistant listening.",
+   "parts": [
+    "hub",
+    "d0",
+    "d1",
+    "d2",
+    "d3"
+   ],
+   "loop_ms": 1890,
+   "gesture_ms": 990,
+   "files": {
+    "web_loop": "web/loop/assistant_on_hub.svg",
+    "web_oneshot": "web/oneshot/assistant_on_hub.svg",
+    "android_loop": "android/drawable/avd_assistant_on_hub_loop.xml",
+    "android_oneshot": "android/drawable/avd_assistant_on_hub_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "assured_workload",
    "index": 328,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The columns rise and lift the roof; then the shield confirms.",
+   "parts": [
+    "roof",
+    "c0",
+    "c1",
+    "c2",
+    "base",
+    "shield"
+   ],
+   "loop_ms": 1560,
+   "gesture_ms": 660,
+   "files": {
+    "web_loop": "web/loop/assured_workload.svg",
+    "web_oneshot": "web/oneshot/assured_workload.svg",
+    "android_loop": "android/drawable/avd_assured_workload_loop.xml",
+    "android_oneshot": "android/drawable/avd_assured_workload_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "asterisk",
    "index": 329,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The asterisk contracts and turns an eighth, landing on its own symmetry.",
+   "parts": [
+    "star"
+   ],
+   "loop_ms": 1440,
+   "gesture_ms": 540,
+   "files": {
+    "web_loop": "web/loop/asterisk.svg",
+    "web_oneshot": "web/oneshot/asterisk.svg",
+    "android_loop": "android/drawable/avd_asterisk_loop.xml",
+    "android_oneshot": "android/drawable/avd_asterisk_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "astrophotography_auto",
    "index": 330,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The stars twinkle one after another and the A hops inside its ring.",
+   "parts": [
+    "ring",
+    "a",
+    "sp0",
+    "sp1"
+   ],
+   "loop_ms": 1700,
+   "gesture_ms": 800,
+   "files": {
+    "web_loop": "web/loop/astrophotography_auto.svg",
+    "web_oneshot": "web/oneshot/astrophotography_auto.svg",
+    "android_loop": "android/drawable/avd_astrophotography_auto_loop.xml",
+    "android_oneshot": "android/drawable/avd_astrophotography_auto_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "astrophotography_off",
    "index": 331,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The slash retracts, showing the stars whole for a moment, and cuts across again; then the sparkle twinkles.",
+   "parts": [
+    "spark",
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 2030,
+   "gesture_ms": 1130,
+   "files": {
+    "web_loop": "web/loop/astrophotography_off.svg",
+    "web_oneshot": "web/oneshot/astrophotography_off.svg",
+    "android_loop": "android/drawable/avd_astrophotography_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_astrophotography_off_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "atm",
    "index": 332,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The letters A, T and M hop one after another.",
+   "parts": [
+    "g0",
+    "g1",
+    "g2"
+   ],
+   "loop_ms": 1900,
+   "gesture_ms": 1000,
+   "files": {
+    "web_loop": "web/loop/atm.svg",
+    "web_oneshot": "web/oneshot/atm.svg",
+    "android_loop": "android/drawable/avd_atm_loop.xml",
+    "android_oneshot": "android/drawable/avd_atm_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "atr",
    "index": 333,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The three dots pulse around the triangle, twice.",
+   "parts": [
+    "d0",
+    "d1",
+    "d2"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/atr.svg",
+    "web_oneshot": "web/oneshot/atr.svg",
+    "android_loop": "android/drawable/avd_atr_loop.xml",
+    "android_oneshot": "android/drawable/avd_atr_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attach_email",
    "index": 334,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The paperclip lifts off the corner and clips back onto the envelope, which dips under the impact.",
+   "parts": [
+    "env",
+    "clip"
+   ],
+   "loop_ms": 1870,
+   "gesture_ms": 970,
+   "files": {
+    "web_loop": "web/loop/attach_email.svg",
+    "web_oneshot": "web/oneshot/attach_email.svg",
+    "android_loop": "android/drawable/avd_attach_email_loop.xml",
+    "android_oneshot": "android/drawable/avd_attach_email_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attach_file",
    "index": 335,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The paperclip springs: its inner leg slides in while the outer leg stretches out, as it swings onto a page.",
+   "parts": [
+    "clip"
+   ],
+   "loop_ms": 1820,
+   "gesture_ms": 920,
+   "files": {
+    "web_loop": "web/loop/attach_file.svg",
+    "web_oneshot": "web/oneshot/attach_file.svg",
+    "android_loop": "android/drawable/avd_attach_file_loop.xml",
+    "android_oneshot": "android/drawable/avd_attach_file_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attach_file_add",
    "index": 336,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The paperclip springs open and closed as it swings; then the plus contracts and springs back.",
+   "parts": [
+    "outer",
+    "inner",
+    "tip",
+    "plus"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/attach_file_add.svg",
+    "web_oneshot": "web/oneshot/attach_file_add.svg",
+    "android_loop": "android/drawable/avd_attach_file_add_loop.xml",
+    "android_oneshot": "android/drawable/avd_attach_file_add_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attach_file_off",
    "index": 337,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The slash retracts, showing the paperclip whole for a moment, and cuts across again; then everything shivers.",
+   "parts": [
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 2140,
+   "gesture_ms": 1240,
+   "files": {
+    "web_loop": "web/loop/attach_file_off.svg",
+    "web_oneshot": "web/oneshot/attach_file_off.svg",
+    "android_loop": "android/drawable/avd_attach_file_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_attach_file_off_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attach_money",
    "index": 338,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The dollar flips like a coin and bounces.",
+   "parts": [
+    "dollar"
+   ],
+   "loop_ms": 1740,
+   "gesture_ms": 840,
+   "files": {
+    "web_loop": "web/loop/attach_money.svg",
+    "web_oneshot": "web/oneshot/attach_money.svg",
+    "android_loop": "android/drawable/avd_attach_money_loop.xml",
+    "android_oneshot": "android/drawable/avd_attach_money_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attachment",
    "index": 339,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The paperclip springs: its inner leg slides in while the outer leg stretches out, as it swings onto a page.",
+   "parts": [
+    "clip"
+   ],
+   "loop_ms": 1820,
+   "gesture_ms": 920,
+   "files": {
+    "web_loop": "web/loop/attachment.svg",
+    "web_oneshot": "web/oneshot/attachment.svg",
+    "android_loop": "android/drawable/avd_attachment_loop.xml",
+    "android_oneshot": "android/drawable/avd_attachment_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attractions",
    "index": 340,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The ferris wheel turns a third of a revolution on its stand, the gondolas riding around, and settles with a gentle overshoot.",
+   "parts": [
+    "orig",
+    "wheel",
+    "stand"
+   ],
+   "loop_ms": 2410,
+   "gesture_ms": 1510,
+   "files": {
+    "web_loop": "web/loop/attractions.svg",
+    "web_oneshot": "web/oneshot/attractions.svg",
+    "android_loop": "android/drawable/avd_attractions_loop.xml",
+    "android_oneshot": "android/drawable/avd_attractions_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "attribution",
    "index": 341,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The ring breathes and the figure hops inside it.",
+   "parts": [
+    "ring",
+    "head",
+    "body"
+   ],
+   "loop_ms": 1580,
+   "gesture_ms": 680,
+   "files": {
+    "web_loop": "web/loop/attribution.svg",
+    "web_oneshot": "web/oneshot/attribution.svg",
+    "android_loop": "android/drawable/avd_attribution_loop.xml",
+    "android_oneshot": "android/drawable/avd_attribution_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "audio_capture",
    "index": 342,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The capture frame closes in and the sound bars dance inside it.",
+   "parts": [
+    "tl",
+    "tr",
+    "br",
+    "bl",
+    "b0",
+    "b1",
+    "b2"
+   ],
+   "loop_ms": 1670,
+   "gesture_ms": 770,
+   "files": {
+    "web_loop": "web/loop/audio_capture.svg",
+    "web_oneshot": "web/oneshot/audio_capture.svg",
+    "android_loop": "android/drawable/avd_audio_capture_loop.xml",
+    "android_oneshot": "android/drawable/avd_audio_capture_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "audio_description",
    "index": 343,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The letters hop and the sound waves radiate out, twice.",
+   "parts": [
+    "a",
+    "d",
+    "w0",
+    "w1"
+   ],
+   "loop_ms": 1810,
+   "gesture_ms": 910,
+   "files": {
+    "web_loop": "web/loop/audio_description.svg",
+    "web_oneshot": "web/oneshot/audio_description.svg",
+    "android_loop": "android/drawable/avd_audio_description_loop.xml",
+    "android_oneshot": "android/drawable/avd_audio_description_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "audio_file",
    "index": 344,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The page settles and the note bounces and sways.",
+   "parts": [
+    "page",
+    "note"
+   ],
+   "loop_ms": 1660,
+   "gesture_ms": 760,
+   "files": {
+    "web_loop": "web/loop/audio_file.svg",
+    "web_oneshot": "web/oneshot/audio_file.svg",
+    "android_loop": "android/drawable/avd_audio_file_loop.xml",
+    "android_oneshot": "android/drawable/avd_audio_file_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "audio_video_receiver",
    "index": 345,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The knob is pressed and the display flickers on.",
+   "parts": [
+    "body",
+    "display",
+    "knob"
+   ],
+   "loop_ms": 1620,
+   "gesture_ms": 720,
+   "files": {
+    "web_loop": "web/loop/audio_video_receiver.svg",
+    "web_oneshot": "web/oneshot/audio_video_receiver.svg",
+    "android_loop": "android/drawable/avd_audio_video_receiver_loop.xml",
+    "android_oneshot": "android/drawable/avd_audio_video_receiver_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_activity_zone",
    "index": 346,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The zone breathes and the sparkle inside twinkles.",
+   "parts": [
+    "zone",
+    "spark"
+   ],
+   "loop_ms": 1590,
+   "gesture_ms": 690,
+   "files": {
+    "web_loop": "web/loop/auto_activity_zone.svg",
+    "web_oneshot": "web/oneshot/auto_activity_zone.svg",
+    "android_loop": "android/drawable/avd_auto_activity_zone_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_activity_zone_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_awesome",
    "index": 347,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The three sparkles twinkle one after another.",
+   "parts": [
+    "sp0",
+    "sp1",
+    "sp2"
+   ],
+   "loop_ms": 1730,
+   "gesture_ms": 830,
+   "files": {
+    "web_loop": "web/loop/auto_awesome.svg",
+    "web_oneshot": "web/oneshot/auto_awesome.svg",
+    "android_loop": "android/drawable/avd_auto_awesome_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_awesome_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_awesome_mosaic",
    "index": 348,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The mosaic tiles pulse one after another.",
+   "parts": [
+    "t0",
+    "t1",
+    "t2"
+   ],
+   "loop_ms": 1560,
+   "gesture_ms": 660,
+   "files": {
+    "web_loop": "web/loop/auto_awesome_mosaic.svg",
+    "web_oneshot": "web/oneshot/auto_awesome_mosaic.svg",
+    "android_loop": "android/drawable/avd_auto_awesome_mosaic_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_awesome_mosaic_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_awesome_motion",
    "index": 349,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The trailing frames collapse into the front one, which pops, then fan back out one after another.",
+   "parts": [
+    "s0",
+    "s1",
+    "s2"
+   ],
+   "loop_ms": 1840,
+   "gesture_ms": 940,
+   "files": {
+    "web_loop": "web/loop/auto_awesome_motion.svg",
+    "web_oneshot": "web/oneshot/auto_awesome_motion.svg",
+    "android_loop": "android/drawable/avd_auto_awesome_motion_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_awesome_motion_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_delete",
    "index": 350,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The bin is pressed down and the clock badge shakes: auto delete is scheduled.",
+   "parts": [
+    "can",
+    "b0",
+    "b1",
+    "clock"
+   ],
+   "loop_ms": 1700,
+   "gesture_ms": 800,
+   "files": {
+    "web_loop": "web/loop/auto_delete.svg",
+    "web_oneshot": "web/oneshot/auto_delete.svg",
+    "android_loop": "android/drawable/avd_auto_delete_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_delete_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_detect_voice",
    "index": 351,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The mic lifts to listen and the sparkles twinkle around it.",
+   "parts": [
+    "mic",
+    "stand",
+    "sp0",
+    "sp1",
+    "sp2"
+   ],
+   "loop_ms": 1810,
+   "gesture_ms": 910,
+   "files": {
+    "web_loop": "web/loop/auto_detect_voice.svg",
+    "web_oneshot": "web/oneshot/auto_detect_voice.svg",
+    "android_loop": "android/drawable/avd_auto_detect_voice_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_detect_voice_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_fix",
    "index": 352,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The magic wand flicks and the sparkles twinkle one after another.",
+   "parts": [
+    "wand",
+    "sp0",
+    "sp1",
+    "sp2"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/auto_fix.svg",
+    "web_oneshot": "web/oneshot/auto_fix.svg",
+    "android_loop": "android/drawable/avd_auto_fix_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_fix_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_fix_high",
    "index": 353,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The magic wand flicks and the sparkles twinkle one after another.",
+   "parts": [
+    "wand",
+    "sp0",
+    "sp1",
+    "sp2"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/auto_fix_high.svg",
+    "web_oneshot": "web/oneshot/auto_fix_high.svg",
+    "android_loop": "android/drawable/avd_auto_fix_high_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_fix_high_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_fix_normal",
    "index": 354,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The magic wand flicks and the sparkles twinkle one after another.",
+   "parts": [
+    "wand",
+    "sp0"
+   ],
+   "loop_ms": 1630,
+   "gesture_ms": 730,
+   "files": {
+    "web_loop": "web/loop/auto_fix_normal.svg",
+    "web_oneshot": "web/oneshot/auto_fix_normal.svg",
+    "android_loop": "android/drawable/avd_auto_fix_normal_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_fix_normal_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_fix_off",
    "index": 355,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The slash retracts, showing the feature on for a moment, and cuts across again; then the sparkle twinkles.",
+   "parts": [
+    "spark",
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 2030,
+   "gesture_ms": 1130,
+   "files": {
+    "web_loop": "web/loop/auto_fix_off.svg",
+    "web_oneshot": "web/oneshot/auto_fix_off.svg",
+    "android_loop": "android/drawable/avd_auto_fix_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_fix_off_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_graph",
    "index": 356,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The trend line is drawn again and the sparkles twinkle along it.",
+   "parts": [
+    "line",
+    "sp0",
+    "sp1",
+    "sp2"
+   ],
+   "loop_ms": 1910,
+   "gesture_ms": 1010,
+   "files": {
+    "web_loop": "web/loop/auto_graph.svg",
+    "web_oneshot": "web/oneshot/auto_graph.svg",
+    "android_loop": "android/drawable/avd_auto_graph_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_graph_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_label",
    "index": 357,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The label nudges forward and its sparkle twinkles.",
+   "parts": [
+    "label",
+    "spark"
+   ],
+   "loop_ms": 1630,
+   "gesture_ms": 730,
+   "files": {
+    "web_loop": "web/loop/auto_label.svg",
+    "web_oneshot": "web/oneshot/auto_label.svg",
+    "android_loop": "android/drawable/avd_auto_label_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_label_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_meeting_room",
    "index": 358,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The knob turns, the door gives a little and the sparkle twinkles.",
+   "parts": [
+    "door",
+    "knob",
+    "spark"
+   ],
+   "loop_ms": 1670,
+   "gesture_ms": 770,
+   "files": {
+    "web_loop": "web/loop/auto_meeting_room.svg",
+    "web_oneshot": "web/oneshot/auto_meeting_room.svg",
+    "android_loop": "android/drawable/avd_auto_meeting_room_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_meeting_room_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_mode",
    "index": 359,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The arrow swings around the cycle, the sparkle twinkles and the dashes blink in turn.",
+   "parts": [
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "spark",
+    "arrow"
+   ],
+   "loop_ms": 1610,
+   "gesture_ms": 710,
+   "files": {
+    "web_loop": "web/loop/auto_mode.svg",
+    "web_oneshot": "web/oneshot/auto_mode.svg",
+    "android_loop": "android/drawable/avd_auto_mode_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_mode_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_read_pause",
    "index": 360,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The bubble pops from its tail and the pause bars press one after the other.",
+   "parts": [
+    "bubble",
+    "b0",
+    "b1"
+   ],
+   "loop_ms": 1600,
+   "gesture_ms": 700,
+   "files": {
+    "web_loop": "web/loop/auto_read_pause.svg",
+    "web_oneshot": "web/oneshot/auto_read_pause.svg",
+    "android_loop": "android/drawable/avd_auto_read_pause_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_read_pause_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_read_play",
    "index": 361,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The bubble pops and the play triangle squashes and nods forward.",
+   "parts": [
+    "bubble",
+    "tri"
+   ],
+   "loop_ms": 1630,
+   "gesture_ms": 730,
+   "files": {
+    "web_loop": "web/loop/auto_read_play.svg",
+    "web_oneshot": "web/oneshot/auto_read_play.svg",
+    "android_loop": "android/drawable/avd_auto_read_play_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_read_play_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_schedule",
    "index": 362,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The calendar breathes and the sparkle on it twinkles.",
+   "parts": [
+    "cal",
+    "spark"
+   ],
+   "loop_ms": 1590,
+   "gesture_ms": 690,
+   "files": {
+    "web_loop": "web/loop/auto_schedule.svg",
+    "web_oneshot": "web/oneshot/auto_schedule.svg",
+    "android_loop": "android/drawable/avd_auto_schedule_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_schedule_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_stories",
    "index": 363,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "A page turns over the spine and the book settles.",
+   "parts": [
+    "book",
+    "page"
+   ],
+   "loop_ms": 1550,
+   "gesture_ms": 650,
+   "files": {
+    "web_loop": "web/loop/auto_stories.svg",
+    "web_oneshot": "web/oneshot/auto_stories.svg",
+    "android_loop": "android/drawable/avd_auto_stories_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_stories_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_stories_off",
    "index": 364,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The slash retracts, showing the book whole for a moment, and cuts across again.",
+   "parts": [
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/auto_stories_off.svg",
+    "web_oneshot": "web/oneshot/auto_stories_off.svg",
+    "android_loop": "android/drawable/avd_auto_stories_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_stories_off_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_timer",
    "index": 365,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The timer button is pressed, the dial reacts and the sparkle twinkles.",
+   "parts": [
+    "button",
+    "ring",
+    "spark"
+   ],
+   "loop_ms": 1630,
+   "gesture_ms": 730,
+   "files": {
+    "web_loop": "web/loop/auto_timer.svg",
+    "web_oneshot": "web/oneshot/auto_timer.svg",
+    "android_loop": "android/drawable/avd_auto_timer_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_timer_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_towing",
    "index": 366,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The tow truck pulls away, leaning back, and settles.",
+   "parts": [
+    "truck"
+   ],
+   "loop_ms": 1490,
+   "gesture_ms": 590,
+   "files": {
+    "web_loop": "web/loop/auto_towing.svg",
+    "web_oneshot": "web/oneshot/auto_towing.svg",
+    "android_loop": "android/drawable/avd_auto_towing_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_towing_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_transmission",
    "index": 367,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The gears are engaged one after another, 1 to 5: each knob of the shift pattern pops in turn.",
+   "parts": [
+    "g1",
+    "g2",
+    "g3",
+    "g4",
+    "g5",
+    "frame"
+   ],
+   "loop_ms": 1870,
+   "gesture_ms": 970,
+   "files": {
+    "web_loop": "web/loop/auto_transmission.svg",
+    "web_oneshot": "web/oneshot/auto_transmission.svg",
+    "android_loop": "android/drawable/avd_auto_transmission_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_transmission_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "auto_videocam",
    "index": 368,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The camera breathes and the sparkle inside twinkles.",
+   "parts": [
+    "cam",
+    "spark"
+   ],
+   "loop_ms": 1590,
+   "gesture_ms": 690,
+   "files": {
+    "web_loop": "web/loop/auto_videocam.svg",
+    "web_oneshot": "web/oneshot/auto_videocam.svg",
+    "android_loop": "android/drawable/avd_auto_videocam_loop.xml",
+    "android_oneshot": "android/drawable/avd_auto_videocam_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "autofps_select",
    "index": 369,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The auto badge pulses, the option pills bounce in sequence and the selected block confirms.",
+   "parts": [
+    "badge",
+    "hole",
+    "p0",
+    "p1",
+    "p2",
+    "block"
+   ],
+   "loop_ms": 1790,
+   "gesture_ms": 890,
+   "files": {
+    "web_loop": "web/loop/autofps_select.svg",
+    "web_oneshot": "web/oneshot/autofps_select.svg",
+    "android_loop": "android/drawable/avd_autofps_select_loop.xml",
+    "android_oneshot": "android/drawable/avd_autofps_select_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "automation",
    "index": 370,
-   "status": "todo"
+   "status": "done",
+   "chunk": 7,
+   "concept": "The two loops swing apart like scissors around the crossing and snap back together.",
+   "parts": [
+    "knot"
+   ],
+   "loop_ms": 1820,
+   "gesture_ms": 920,
+   "files": {
+    "web_loop": "web/loop/automation.svg",
+    "web_oneshot": "web/oneshot/automation.svg",
+    "android_loop": "android/drawable/avd_automation_loop.xml",
+    "android_oneshot": "android/drawable/avd_automation_oneshot.xml"
+   },
+   "generator": "0.8.0",
+   "date": "2026-11-02"
   },
   {
    "name": "autopause",

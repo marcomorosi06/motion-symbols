@@ -8,7 +8,7 @@ Enjoy!
 
 ## Progress
 
-**320 / 4,157 icons completed** · 7.7%
+**370 / 4,157 icons completed** · 8.9%
 
 Icons are being created strictly in alphabetical order, following the original Material Symbols collection. No skipping ahead!
 
