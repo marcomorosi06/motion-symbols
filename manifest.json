@@ -3,7 +3,7 @@
  "source_commit": "10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7",
  "order": "alphabetical (C locale)",
  "chunk_size": "variable (see chunk of each icon)",
- "completed": 370,
+ "completed": 470,
  "total": 4157,
  "icons": [
   {
@@ -8296,502 +8296,2253 @@
   {
    "name": "autopause",
    "index": 371,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The cycle arrow swings back, the dashes chase around it and the pause bars press one after the other.",
+   "parts": [
+    "b0",
+    "b1",
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "arrow"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/autopause.svg",
+    "web_oneshot": "web/oneshot/autopause.svg",
+    "android_loop": "android/drawable/avd_autopause_loop.xml",
+    "android_oneshot": "android/drawable/avd_autopause_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "autopay",
    "index": 372,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The two payment arrows turn around the A, which hops; the sparkle twinkles.",
+   "parts": [
+    "top",
+    "bottom",
+    "spark",
+    "a"
+   ],
+   "loop_ms": 1730,
+   "gesture_ms": 830,
+   "files": {
+    "web_loop": "web/loop/autopay.svg",
+    "web_oneshot": "web/oneshot/autopay.svg",
+    "android_loop": "android/drawable/avd_autopay_loop.xml",
+    "android_oneshot": "android/drawable/avd_autopay_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "autoplay",
    "index": 373,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The cycle arrow swings back, the dashes chase around it and the play triangle squashes and springs forward.",
+   "parts": [
+    "tri",
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "arrow"
+   ],
+   "loop_ms": 1680,
+   "gesture_ms": 780,
+   "files": {
+    "web_loop": "web/loop/autoplay.svg",
+    "web_oneshot": "web/oneshot/autoplay.svg",
+    "android_loop": "android/drawable/avd_autoplay_loop.xml",
+    "android_oneshot": "android/drawable/avd_autoplay_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "autorenew",
    "index": 374,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The two arrows wind back, then chase each other half a turn around and land on themselves.",
+   "parts": [
+    "top",
+    "bottom"
+   ],
+   "loop_ms": 1860,
+   "gesture_ms": 960,
+   "files": {
+    "web_loop": "web/loop/autorenew.svg",
+    "web_oneshot": "web/oneshot/autorenew.svg",
+    "android_loop": "android/drawable/avd_autorenew_loop.xml",
+    "android_oneshot": "android/drawable/avd_autorenew_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "autostop",
    "index": 375,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The cycle arrow swings back, the dashes chase around it and the stop square clamps down.",
+   "parts": [
+    "sq",
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "arrow"
+   ],
+   "loop_ms": 1680,
+   "gesture_ms": 780,
+   "files": {
+    "web_loop": "web/loop/autostop.svg",
+    "web_oneshot": "web/oneshot/autostop.svg",
+    "android_loop": "android/drawable/avd_autostop_loop.xml",
+    "android_oneshot": "android/drawable/avd_autostop_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "av1",
    "index": 376,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The frame breathes and the codec letters hop and land one after another.",
+   "parts": [
+    "frame",
+    "g0",
+    "g1",
+    "g2"
+   ],
+   "loop_ms": 1890,
+   "gesture_ms": 990,
+   "files": {
+    "web_loop": "web/loop/av1.svg",
+    "web_oneshot": "web/oneshot/av1.svg",
+    "android_loop": "android/drawable/avd_av1_loop.xml",
+    "android_oneshot": "android/drawable/avd_av1_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "av_timer",
    "index": 377,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The dial ticks lights up one after another, then the whole dial shivers as time is up.",
+   "parts": [
+    "dial",
+    "t0",
+    "t1",
+    "t2"
+   ],
+   "loop_ms": 1880,
+   "gesture_ms": 980,
+   "files": {
+    "web_loop": "web/loop/av_timer.svg",
+    "web_oneshot": "web/oneshot/av_timer.svg",
+    "android_loop": "android/drawable/avd_av_timer_loop.xml",
+    "android_oneshot": "android/drawable/avd_av_timer_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "avc",
    "index": 378,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The frame breathes and the codec letters hop and land one after another.",
+   "parts": [
+    "frame",
+    "g0",
+    "g1",
+    "g2"
+   ],
+   "loop_ms": 1890,
+   "gesture_ms": 990,
+   "files": {
+    "web_loop": "web/loop/avc.svg",
+    "web_oneshot": "web/oneshot/avc.svg",
+    "android_loop": "android/drawable/avd_avc_loop.xml",
+    "android_oneshot": "android/drawable/avd_avc_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "avg_pace",
    "index": 379,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The pace needle swings back and forth to its average, while the speed marks flicker in turn.",
+   "parts": [
+    "arc",
+    "needle",
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "d4"
+   ],
+   "loop_ms": 1920,
+   "gesture_ms": 1020,
+   "files": {
+    "web_loop": "web/loop/avg_pace.svg",
+    "web_oneshot": "web/oneshot/avg_pace.svg",
+    "android_loop": "android/drawable/avd_avg_pace_loop.xml",
+    "android_oneshot": "android/drawable/avd_avg_pace_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "avg_time",
    "index": 380,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The stopwatch is pressed and its pulse beats twice.",
+   "parts": [
+    "button",
+    "watch"
+   ],
+   "loop_ms": 1520,
+   "gesture_ms": 620,
+   "files": {
+    "web_loop": "web/loop/avg_time.svg",
+    "web_oneshot": "web/oneshot/avg_time.svg",
+    "android_loop": "android/drawable/avd_avg_time_loop.xml",
+    "android_oneshot": "android/drawable/avd_avg_time_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "avocado_bean",
    "index": 381,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The avocado squashes, its pit pops and the bean rocks next to it.",
+   "parts": [
+    "egg",
+    "pit",
+    "bean"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/avocado_bean.svg",
+    "web_oneshot": "web/oneshot/avocado_bean.svg",
+    "android_loop": "android/drawable/avd_avocado_bean_loop.xml",
+    "android_oneshot": "android/drawable/avd_avocado_bean_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "award_meal",
    "index": 382,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Fork and spoon lean in and clink (a toast), the rosette rocks and swells at the clink.",
+   "parts": [
+    "badge"
+   ],
+   "loop_ms": 1770,
+   "gesture_ms": 870,
+   "files": {
+    "web_loop": "web/loop/award_meal.svg",
+    "web_oneshot": "web/oneshot/award_meal.svg",
+    "android_loop": "android/drawable/avd_award_meal_loop.xml",
+    "android_oneshot": "android/drawable/avd_award_meal_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "award_star",
    "index": 383,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The rosette turns an eighth and the star spins the other way a fifth, both landing on their symmetry.",
+   "parts": [
+    "rosette",
+    "star"
+   ],
+   "loop_ms": 1530,
+   "gesture_ms": 630,
+   "files": {
+    "web_loop": "web/loop/award_star.svg",
+    "web_oneshot": "web/oneshot/award_star.svg",
+    "android_loop": "android/drawable/avd_award_star_loop.xml",
+    "android_oneshot": "android/drawable/avd_award_star_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "azm",
    "index": 384,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The pointer hunts like a compass needle (swing, overshoot, settle) and darts along its bearing.",
+   "parts": [
+    "arrow"
+   ],
+   "loop_ms": 1990,
+   "gesture_ms": 1090,
+   "files": {
+    "web_loop": "web/loop/azm.svg",
+    "web_oneshot": "web/oneshot/azm.svg",
+    "android_loop": "android/drawable/avd_azm_loop.xml",
+    "android_oneshot": "android/drawable/avd_azm_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "b_circle",
    "index": 385,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The B flips like a card inside its circle.",
+   "parts": [
+    "ring",
+    "b"
+   ],
+   "loop_ms": 1540,
+   "gesture_ms": 640,
+   "files": {
+    "web_loop": "web/loop/b_circle.svg",
+    "web_oneshot": "web/oneshot/b_circle.svg",
+    "android_loop": "android/drawable/avd_b_circle_loop.xml",
+    "android_oneshot": "android/drawable/avd_b_circle_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "baby_changing_station",
    "index": 386,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The parent leans in over the changing table while the baby kicks twice and nods.",
+   "parts": [
+    "head",
+    "body",
+    "table",
+    "baby",
+    "bhead"
+   ],
+   "loop_ms": 1850,
+   "gesture_ms": 950,
+   "files": {
+    "web_loop": "web/loop/baby_changing_station.svg",
+    "web_oneshot": "web/oneshot/baby_changing_station.svg",
+    "android_loop": "android/drawable/avd_baby_changing_station_loop.xml",
+    "android_oneshot": "android/drawable/avd_baby_changing_station_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "back_hand",
    "index": 387,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The hand waves from the wrist, then the two fingers bend in turn.",
+   "parts": [
+    "hand",
+    "f0",
+    "f1"
+   ],
+   "loop_ms": 1930,
+   "gesture_ms": 1030,
+   "files": {
+    "web_loop": "web/loop/back_hand.svg",
+    "web_oneshot": "web/oneshot/back_hand.svg",
+    "android_loop": "android/drawable/avd_back_hand_loop.xml",
+    "android_oneshot": "android/drawable/avd_back_hand_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "back_to_tab",
    "index": 388,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The arrow darts back to the corner and the tab slides in after it.",
+   "parts": [
+    "arrow",
+    "frame_a",
+    "frame_b",
+    "tab"
+   ],
+   "loop_ms": 1580,
+   "gesture_ms": 680,
+   "files": {
+    "web_loop": "web/loop/back_to_tab.svg",
+    "web_oneshot": "web/oneshot/back_to_tab.svg",
+    "android_loop": "android/drawable/avd_back_to_tab_loop.xml",
+    "android_oneshot": "android/drawable/avd_back_to_tab_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_blur_full",
    "index": 389,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The person stays sharp while the background dots ripple outward, blurring and refocusing.",
+   "parts": [
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d9",
+    "d10",
+    "d11",
+    "d12",
+    "d14",
+    "d15",
+    "d16",
+    "d17",
+    "d18",
+    "d19",
+    "d20",
+    "d21",
+    "head",
+    "body"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/background_blur_full.svg",
+    "web_oneshot": "web/oneshot/background_blur_full.svg",
+    "android_loop": "android/drawable/avd_background_blur_full_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_blur_full_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_blur_light",
    "index": 390,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The person stays sharp while the background dots ripple outward, blurring and refocusing.",
+   "parts": [
+    "d0",
+    "d1",
+    "d2",
+    "d3",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d9",
+    "d10",
+    "d11",
+    "d12",
+    "d14",
+    "d15",
+    "d16",
+    "d17",
+    "d18",
+    "d19",
+    "d20",
+    "d21",
+    "head",
+    "body"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/background_blur_light.svg",
+    "web_oneshot": "web/oneshot/background_blur_light.svg",
+    "android_loop": "android/drawable/avd_background_blur_light_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_blur_light_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_dot_large",
    "index": 391,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The dot pattern ripples diagonally across the frame.",
+   "parts": [
+    "frame",
+    "d0",
+    "d1",
+    "d3",
+    "d4"
+   ],
+   "loop_ms": 1930,
+   "gesture_ms": 1030,
+   "files": {
+    "web_loop": "web/loop/background_dot_large.svg",
+    "web_oneshot": "web/oneshot/background_dot_large.svg",
+    "android_loop": "android/drawable/avd_background_dot_large_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_dot_large_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_dot_small",
    "index": 392,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The dot pattern ripples diagonally across the frame.",
+   "parts": [
+    "frame",
+    "d0",
+    "d1",
+    "d2",
+    "d4",
+    "d5",
+    "d6",
+    "d7",
+    "d8",
+    "d9"
+   ],
+   "loop_ms": 2040,
+   "gesture_ms": 1140,
+   "files": {
+    "web_loop": "web/loop/background_dot_small.svg",
+    "web_oneshot": "web/oneshot/background_dot_small.svg",
+    "android_loop": "android/drawable/avd_background_dot_small_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_dot_small_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_grid_small",
    "index": 393,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The grid cells fill in diagonally from the top left, then open again.",
+   "parts": [
+    "grid"
+   ],
+   "loop_ms": 1940,
+   "gesture_ms": 1040,
+   "files": {
+    "web_loop": "web/loop/background_grid_small.svg",
+    "web_oneshot": "web/oneshot/background_grid_small.svg",
+    "android_loop": "android/drawable/avd_background_grid_small_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_grid_small_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "background_replace",
    "index": 394,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The striped background is swept away and replaced diagonally behind the person, who stays put.",
+   "parts": [
+    "s0",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6",
+    "s7",
+    "s8",
+    "head",
+    "body"
+   ],
+   "loop_ms": 1800,
+   "gesture_ms": 900,
+   "files": {
+    "web_loop": "web/loop/background_replace.svg",
+    "web_oneshot": "web/oneshot/background_replace.svg",
+    "android_loop": "android/drawable/avd_background_replace_loop.xml",
+    "android_oneshot": "android/drawable/avd_background_replace_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backlight_high",
    "index": 395,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The backlight dims and its rays shine back out one after another.",
+   "parts": [
+    "base",
+    "r0",
+    "r1",
+    "r2",
+    "r3",
+    "r4"
+   ],
+   "loop_ms": 1710,
+   "gesture_ms": 810,
+   "files": {
+    "web_loop": "web/loop/backlight_high.svg",
+    "web_oneshot": "web/oneshot/backlight_high.svg",
+    "android_loop": "android/drawable/avd_backlight_high_loop.xml",
+    "android_oneshot": "android/drawable/avd_backlight_high_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backlight_high_off",
    "index": 396,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The slash retracts, showing the backlight on for a moment, and cuts across again.",
+   "parts": [
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/backlight_high_off.svg",
+    "web_oneshot": "web/oneshot/backlight_high_off.svg",
+    "android_loop": "android/drawable/avd_backlight_high_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_backlight_high_off_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backlight_low",
    "index": 397,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The backlight dims and its rays shine back out one after another.",
+   "parts": [
+    "base",
+    "r0",
+    "r1",
+    "r2",
+    "r3",
+    "r4"
+   ],
+   "loop_ms": 1710,
+   "gesture_ms": 810,
+   "files": {
+    "web_loop": "web/loop/backlight_low.svg",
+    "web_oneshot": "web/oneshot/backlight_low.svg",
+    "android_loop": "android/drawable/avd_backlight_low_loop.xml",
+    "android_oneshot": "android/drawable/avd_backlight_low_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backpack",
    "index": 398,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The backpack is hoisted and lands with a squash; the pocket bounces a beat later.",
+   "parts": [
+    "bag",
+    "pocket"
+   ],
+   "loop_ms": 1570,
+   "gesture_ms": 670,
+   "files": {
+    "web_loop": "web/loop/backpack.svg",
+    "web_oneshot": "web/oneshot/backpack.svg",
+    "android_loop": "android/drawable/avd_backpack_loop.xml",
+    "android_oneshot": "android/drawable/avd_backpack_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backspace",
    "index": 399,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The cross contracts and the key darts left, deleting a character.",
+   "parts": [
+    "tag",
+    "x"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/backspace.svg",
+    "web_oneshot": "web/oneshot/backspace.svg",
+    "android_loop": "android/drawable/avd_backspace_loop.xml",
+    "android_oneshot": "android/drawable/avd_backspace_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backup",
    "index": 400,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The upload arrow pushes up through the cloud, which swells a little, and springs back.",
+   "parts": [
+    "cloud"
+   ],
+   "loop_ms": 1580,
+   "gesture_ms": 680,
+   "files": {
+    "web_loop": "web/loop/backup.svg",
+    "web_oneshot": "web/oneshot/backup.svg",
+    "android_loop": "android/drawable/avd_backup_loop.xml",
+    "android_oneshot": "android/drawable/avd_backup_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "backup_table",
    "index": 401,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The backup copy slides out behind the table and snaps back.",
+   "parts": [
+    "table",
+    "back"
+   ],
+   "loop_ms": 1490,
+   "gesture_ms": 590,
+   "files": {
+    "web_loop": "web/loop/backup_table.svg",
+    "web_oneshot": "web/oneshot/backup_table.svg",
+    "android_loop": "android/drawable/avd_backup_table_loop.xml",
+    "android_oneshot": "android/drawable/avd_backup_table_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "badge",
    "index": 402,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The badge swings on its clip, the photo hops and the lines are written again.",
+   "parts": [
+    "card",
+    "head",
+    "body",
+    "l0",
+    "l1"
+   ],
+   "loop_ms": 1750,
+   "gesture_ms": 850,
+   "files": {
+    "web_loop": "web/loop/badge.svg",
+    "web_oneshot": "web/oneshot/badge.svg",
+    "android_loop": "android/drawable/avd_badge_loop.xml",
+    "android_oneshot": "android/drawable/avd_badge_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "badge_critical_battery",
    "index": 403,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The critical charge flickers twice and the battery blinks, warning that it is almost empty.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1550,
+   "gesture_ms": 650,
+   "files": {
+    "web_loop": "web/loop/badge_critical_battery.svg",
+    "web_oneshot": "web/oneshot/badge_critical_battery.svg",
+    "android_loop": "android/drawable/avd_badge_critical_battery_loop.xml",
+    "android_oneshot": "android/drawable/avd_badge_critical_battery_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "badminton",
    "index": 404,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The racket winds back and swings; the shuttlecock flies off and comes back.",
+   "parts": [
+    "racket",
+    "shuttle",
+    "tip"
+   ],
+   "loop_ms": 1670,
+   "gesture_ms": 770,
+   "files": {
+    "web_loop": "web/loop/badminton.svg",
+    "web_oneshot": "web/oneshot/badminton.svg",
+    "android_loop": "android/drawable/avd_badminton_loop.xml",
+    "android_oneshot": "android/drawable/avd_badminton_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bakery_dining",
    "index": 405,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The fresh croissant puffs up, settles and wobbles.",
+   "parts": [
+    "croissant"
+   ],
+   "loop_ms": 1610,
+   "gesture_ms": 710,
+   "files": {
+    "web_loop": "web/loop/bakery_dining.svg",
+    "web_oneshot": "web/oneshot/bakery_dining.svg",
+    "android_loop": "android/drawable/avd_bakery_dining_loop.xml",
+    "android_oneshot": "android/drawable/avd_bakery_dining_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "balance",
    "index": 406,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The beam tips one way, then the other, and settles level; the pans hang level and ride up and down with it.",
+   "parts": [
+    "scale"
+   ],
+   "loop_ms": 1770,
+   "gesture_ms": 870,
+   "files": {
+    "web_loop": "web/loop/balance.svg",
+    "web_oneshot": "web/oneshot/balance.svg",
+    "android_loop": "android/drawable/avd_balance_loop.xml",
+    "android_oneshot": "android/drawable/avd_balance_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "balcony",
    "index": 407,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The handles turn and the balcony doors breathe open and closed.",
+   "parts": [
+    "door",
+    "k0",
+    "k1"
+   ],
+   "loop_ms": 1500,
+   "gesture_ms": 600,
+   "files": {
+    "web_loop": "web/loop/balcony.svg",
+    "web_oneshot": "web/oneshot/balcony.svg",
+    "android_loop": "android/drawable/avd_balcony_loop.xml",
+    "android_oneshot": "android/drawable/avd_balcony_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "ballot",
    "index": 408,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Each ballot option is ticked and written, one after the other.",
+   "parts": [
+    "frame",
+    "dot0",
+    "dot1",
+    "l0",
+    "l1"
+   ],
+   "loop_ms": 1770,
+   "gesture_ms": 870,
+   "files": {
+    "web_loop": "web/loop/ballot.svg",
+    "web_oneshot": "web/oneshot/ballot.svg",
+    "android_loop": "android/drawable/avd_ballot_loop.xml",
+    "android_oneshot": "android/drawable/avd_ballot_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bar_chart",
    "index": 409,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bars drop to the baseline and grow back one after another with a spring.",
+   "parts": [
+    "b0",
+    "b1",
+    "b2"
+   ],
+   "loop_ms": 1680,
+   "gesture_ms": 780,
+   "files": {
+    "web_loop": "web/loop/bar_chart.svg",
+    "web_oneshot": "web/oneshot/bar_chart.svg",
+    "android_loop": "android/drawable/avd_bar_chart_loop.xml",
+    "android_oneshot": "android/drawable/avd_bar_chart_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bar_chart_4_bars",
    "index": 410,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bars drop to the baseline and grow back one after another with a spring.",
+   "parts": [
+    "b0",
+    "b1",
+    "b2",
+    "b3",
+    "base"
+   ],
+   "loop_ms": 1740,
+   "gesture_ms": 840,
+   "files": {
+    "web_loop": "web/loop/bar_chart_4_bars.svg",
+    "web_oneshot": "web/oneshot/bar_chart_4_bars.svg",
+    "android_loop": "android/drawable/avd_bar_chart_4_bars_loop.xml",
+    "android_oneshot": "android/drawable/avd_bar_chart_4_bars_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bar_chart_off",
    "index": 411,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The slash retracts, showing the chart whole for a moment, and cuts across again.",
+   "parts": [
+    "rest",
+    "on_layer"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bar_chart_off.svg",
+    "web_oneshot": "web/oneshot/bar_chart_off.svg",
+    "android_loop": "android/drawable/avd_bar_chart_off_loop.xml",
+    "android_oneshot": "android/drawable/avd_bar_chart_off_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "barcode",
    "index": 412,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "A scanning wave runs across the bars twice.",
+   "parts": [
+    "b0",
+    "b1",
+    "b2",
+    "b3",
+    "b4",
+    "b5",
+    "b6"
+   ],
+   "loop_ms": 1840,
+   "gesture_ms": 940,
+   "files": {
+    "web_loop": "web/loop/barcode.svg",
+    "web_oneshot": "web/oneshot/barcode.svg",
+    "android_loop": "android/drawable/avd_barcode_loop.xml",
+    "android_oneshot": "android/drawable/avd_barcode_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "barcode_reader",
    "index": 413,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The reader kicks as its trigger is pulled and the beams flash out twice.",
+   "parts": [
+    "gun",
+    "beam0",
+    "beam1",
+    "beam2"
+   ],
+   "loop_ms": 1800,
+   "gesture_ms": 900,
+   "files": {
+    "web_loop": "web/loop/barcode_reader.svg",
+    "web_oneshot": "web/oneshot/barcode_reader.svg",
+    "android_loop": "android/drawable/avd_barcode_reader_loop.xml",
+    "android_oneshot": "android/drawable/avd_barcode_reader_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "barcode_scanner",
    "index": 414,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The scanner frame locks onto the code and a scan line sweeps across the bars.",
+   "parts": [
+    "c0",
+    "c1",
+    "c2",
+    "c3",
+    "b0",
+    "b1",
+    "b2",
+    "b3",
+    "b4",
+    "b5"
+   ],
+   "loop_ms": 1620,
+   "gesture_ms": 720,
+   "files": {
+    "web_loop": "web/loop/barcode_scanner.svg",
+    "web_oneshot": "web/oneshot/barcode_scanner.svg",
+    "android_loop": "android/drawable/avd_barcode_scanner_loop.xml",
+    "android_oneshot": "android/drawable/avd_barcode_scanner_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "barefoot",
    "index": 415,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The foot presses down and the toes wiggle one after another.",
+   "parts": [
+    "foot",
+    "t0",
+    "t1",
+    "t2",
+    "t3",
+    "t4"
+   ],
+   "loop_ms": 1700,
+   "gesture_ms": 800,
+   "files": {
+    "web_loop": "web/loop/barefoot.svg",
+    "web_oneshot": "web/oneshot/barefoot.svg",
+    "android_loop": "android/drawable/avd_barefoot_loop.xml",
+    "android_oneshot": "android/drawable/avd_barefoot_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "batch_prediction",
    "index": 416,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The stacked cards drop onto the prediction card, whose bulb lights up.",
+   "parts": [
+    "card",
+    "l0",
+    "l1"
+   ],
+   "loop_ms": 1590,
+   "gesture_ms": 690,
+   "files": {
+    "web_loop": "web/loop/batch_prediction.svg",
+    "web_oneshot": "web/oneshot/batch_prediction.svg",
+    "android_loop": "android/drawable/avd_batch_prediction_loop.xml",
+    "android_oneshot": "android/drawable/avd_batch_prediction_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bath_bedrock",
    "index": 417,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Steam rises from the hot spring in wisps, one after another; the stone warms up.",
+   "parts": [
+    "st0",
+    "st1",
+    "st2",
+    "sun",
+    "tub",
+    "base"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bath_bedrock.svg",
+    "web_oneshot": "web/oneshot/bath_bedrock.svg",
+    "android_loop": "android/drawable/avd_bath_bedrock_loop.xml",
+    "android_oneshot": "android/drawable/avd_bath_bedrock_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bath_outdoor",
    "index": 418,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Steam rises in wisps over the outdoor bath, one after another.",
+   "parts": [
+    "st0",
+    "st1",
+    "st2",
+    "pool"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bath_outdoor.svg",
+    "web_oneshot": "web/oneshot/bath_outdoor.svg",
+    "android_loop": "android/drawable/avd_bath_outdoor_loop.xml",
+    "android_oneshot": "android/drawable/avd_bath_outdoor_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bath_private",
    "index": 419,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Steam rises from the private bath while bubbles pop at its rim.",
+   "parts": [
+    "st0",
+    "st1",
+    "st2",
+    "d0",
+    "d1",
+    "tub"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bath_private.svg",
+    "web_oneshot": "web/oneshot/bath_private.svg",
+    "android_loop": "android/drawable/avd_bath_private_loop.xml",
+    "android_oneshot": "android/drawable/avd_bath_private_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bath_public_large",
    "index": 420,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "Steam rises over the public bath while the bathers bob up one after another.",
+   "parts": [
+    "st0",
+    "st1",
+    "st2",
+    "frame",
+    "p0",
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bath_public_large.svg",
+    "web_oneshot": "web/oneshot/bath_public_large.svg",
+    "android_loop": "android/drawable/avd_bath_public_large_loop.xml",
+    "android_oneshot": "android/drawable/avd_bath_public_large_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bath_soak",
    "index": 421,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bather sinks a little deeper with a sigh as the steam rises.",
+   "parts": [
+    "st0",
+    "st1",
+    "st2",
+    "head",
+    "tub"
+   ],
+   "loop_ms": 1830,
+   "gesture_ms": 930,
+   "files": {
+    "web_loop": "web/loop/bath_soak.svg",
+    "web_oneshot": "web/oneshot/bath_soak.svg",
+    "android_loop": "android/drawable/avd_bath_soak_loop.xml",
+    "android_oneshot": "android/drawable/avd_bath_soak_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bathroom",
    "index": 422,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The shower head shakes and the drops fall through, coming back in from above.",
+   "parts": [
+    "frame",
+    "head",
+    "dr0",
+    "dr1",
+    "dr2",
+    "dr3",
+    "dr4",
+    "dr5"
+   ],
+   "loop_ms": 1760,
+   "gesture_ms": 860,
+   "files": {
+    "web_loop": "web/loop/bathroom.svg",
+    "web_oneshot": "web/oneshot/bathroom.svg",
+    "android_loop": "android/drawable/avd_bathroom_loop.xml",
+    "android_oneshot": "android/drawable/avd_bathroom_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "bathtub",
    "index": 423,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bather slides down into the tub, which squashes, and comes back up.",
+   "parts": [
+    "head",
+    "tub"
+   ],
+   "loop_ms": 1700,
+   "gesture_ms": 800,
+   "files": {
+    "web_loop": "web/loop/bathtub.svg",
+    "web_oneshot": "web/oneshot/bathtub.svg",
+    "android_loop": "android/drawable/avd_bathtub_loop.xml",
+    "android_oneshot": "android/drawable/avd_bathtub_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_0_bar",
    "index": 424,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_0_bar.svg",
+    "web_oneshot": "web/oneshot/battery_0_bar.svg",
+    "android_loop": "android/drawable/avd_battery_0_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_0_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_1_bar",
    "index": 425,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_1_bar.svg",
+    "web_oneshot": "web/oneshot/battery_1_bar.svg",
+    "android_loop": "android/drawable/avd_battery_1_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_1_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_20",
    "index": 426,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_20.svg",
+    "web_oneshot": "web/oneshot/battery_20.svg",
+    "android_loop": "android/drawable/avd_battery_20_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_20_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_2_bar",
    "index": 427,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_2_bar.svg",
+    "web_oneshot": "web/oneshot/battery_2_bar.svg",
+    "android_loop": "android/drawable/avd_battery_2_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_2_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_30",
    "index": 428,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_30.svg",
+    "web_oneshot": "web/oneshot/battery_30.svg",
+    "android_loop": "android/drawable/avd_battery_30_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_30_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_3_bar",
    "index": 429,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_3_bar.svg",
+    "web_oneshot": "web/oneshot/battery_3_bar.svg",
+    "android_loop": "android/drawable/avd_battery_3_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_3_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_4_bar",
    "index": 430,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_4_bar.svg",
+    "web_oneshot": "web/oneshot/battery_4_bar.svg",
+    "android_loop": "android/drawable/avd_battery_4_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_4_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_50",
    "index": 431,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_50.svg",
+    "web_oneshot": "web/oneshot/battery_50.svg",
+    "android_loop": "android/drawable/avd_battery_50_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_50_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_5_bar",
    "index": 432,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_5_bar.svg",
+    "web_oneshot": "web/oneshot/battery_5_bar.svg",
+    "android_loop": "android/drawable/avd_battery_5_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_5_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_60",
    "index": 433,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_60.svg",
+    "web_oneshot": "web/oneshot/battery_60.svg",
+    "android_loop": "android/drawable/avd_battery_60_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_60_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_6_bar",
    "index": 434,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_6_bar.svg",
+    "web_oneshot": "web/oneshot/battery_6_bar.svg",
+    "android_loop": "android/drawable/avd_battery_6_bar_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_6_bar_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_80",
    "index": 435,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_80.svg",
+    "web_oneshot": "web/oneshot/battery_80.svg",
+    "android_loop": "android/drawable/avd_battery_80_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_80_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_90",
    "index": 436,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_90.svg",
+    "web_oneshot": "web/oneshot/battery_90.svg",
+    "android_loop": "android/drawable/avd_battery_90_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_90_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_alert",
    "index": 437,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its alert mark flashes and shakes.",
+   "parts": [
+    "frame",
+    "stick",
+    "dot"
+   ],
+   "loop_ms": 1570,
+   "gesture_ms": 670,
+   "files": {
+    "web_loop": "web/loop/battery_alert.svg",
+    "web_oneshot": "web/oneshot/battery_alert.svg",
+    "android_loop": "android/drawable/avd_battery_alert_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_alert_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_0",
    "index": 438,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_0.svg",
+    "web_oneshot": "web/oneshot/battery_android_0.svg",
+    "android_loop": "android/drawable/avd_battery_android_0_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_0_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_1",
    "index": 439,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_1.svg",
+    "web_oneshot": "web/oneshot/battery_android_1.svg",
+    "android_loop": "android/drawable/avd_battery_android_1_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_1_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_2",
    "index": 440,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_2.svg",
+    "web_oneshot": "web/oneshot/battery_android_2.svg",
+    "android_loop": "android/drawable/avd_battery_android_2_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_2_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_3",
    "index": 441,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_3.svg",
+    "web_oneshot": "web/oneshot/battery_android_3.svg",
+    "android_loop": "android/drawable/avd_battery_android_3_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_3_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_4",
    "index": 442,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_4.svg",
+    "web_oneshot": "web/oneshot/battery_android_4.svg",
+    "android_loop": "android/drawable/avd_battery_android_4_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_4_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_5",
    "index": 443,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_5.svg",
+    "web_oneshot": "web/oneshot/battery_android_5.svg",
+    "android_loop": "android/drawable/avd_battery_android_5_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_5_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_6",
    "index": 444,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery drains, charges up to full and settles back on its own level.",
+   "parts": [
+    "batt"
+   ],
+   "loop_ms": 1690,
+   "gesture_ms": 790,
+   "files": {
+    "web_loop": "web/loop/battery_android_6.svg",
+    "web_oneshot": "web/oneshot/battery_android_6.svg",
+    "android_loop": "android/drawable/avd_battery_android_6_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_6_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_alert",
    "index": 445,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its alert mark flashes and shakes.",
+   "parts": [
+    "frame",
+    "stick",
+    "dot"
+   ],
+   "loop_ms": 1570,
+   "gesture_ms": 670,
+   "files": {
+    "web_loop": "web/loop/battery_android_alert.svg",
+    "web_oneshot": "web/oneshot/battery_android_alert.svg",
+    "android_loop": "android/drawable/avd_battery_android_alert_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_alert_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_bolt",
    "index": 446,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts as the bolt zaps through it.",
+   "parts": [
+    "frame",
+    "bolt"
+   ],
+   "loop_ms": 1540,
+   "gesture_ms": 640,
+   "files": {
+    "web_loop": "web/loop/battery_android_bolt.svg",
+    "web_oneshot": "web/oneshot/battery_android_bolt.svg",
+    "android_loop": "android/drawable/avd_battery_android_bolt_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_bolt_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_1",
    "index": 447,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_1.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_1.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_1_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_1_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_2",
    "index": 448,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_2.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_2.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_2_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_2_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_3",
    "index": 449,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_3.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_3.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_3_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_3_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_4",
    "index": 450,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_4.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_4.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_4_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_4_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_5",
    "index": 451,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_5.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_5.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_5_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_5_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_6",
    "index": 452,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_6.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_6.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_6_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_6_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_alert",
    "index": 453,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The alert mark flashes and shakes.",
+   "parts": [
+    "frame",
+    "fill",
+    "stick",
+    "dot"
+   ],
+   "loop_ms": 1870,
+   "gesture_ms": 970,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_alert.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_alert.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_alert_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_alert_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_bolt",
    "index": 454,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The bolt zaps.",
+   "parts": [
+    "frame",
+    "fill",
+    "bolt"
+   ],
+   "loop_ms": 1840,
+   "gesture_ms": 940,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_bolt.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_bolt.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_bolt_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_bolt_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_full",
    "index": 455,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring, then the terminal lights up.",
+   "parts": [
+    "frame",
+    "fill",
+    "cap"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_full.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_full.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_full_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_full_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_plus",
    "index": 456,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The plus contracts and springs back.",
+   "parts": [
+    "frame",
+    "fill",
+    "plus"
+   ],
+   "loop_ms": 1780,
+   "gesture_ms": 880,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_plus.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_plus.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_plus_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_plus_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_question",
    "index": 457,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The question mark tilts, puzzled.",
+   "parts": [
+    "frame",
+    "fill",
+    "q",
+    "qdot"
+   ],
+   "loop_ms": 2020,
+   "gesture_ms": 1120,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_question.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_question.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_question_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_question_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_share",
    "index": 458,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The share arrow darts forward.",
+   "parts": [
+    "frame",
+    "fill",
+    "arrow"
+   ],
+   "loop_ms": 1940,
+   "gesture_ms": 1040,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_share.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_share.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_share_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_share_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_frame_shield",
    "index": 459,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge empties and fills up again from the left with a spring The shield pulses and rocks.",
+   "parts": [
+    "frame",
+    "fill",
+    "shield"
+   ],
+   "loop_ms": 1940,
+   "gesture_ms": 1040,
+   "files": {
+    "web_loop": "web/loop/battery_android_frame_shield.svg",
+    "web_oneshot": "web/oneshot/battery_android_frame_shield.svg",
+    "android_loop": "android/drawable/avd_battery_android_frame_shield_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_frame_shield_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_full",
    "index": 460,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The charge drains and fills again from the left until the battery is full.",
+   "parts": [
+    "solid",
+    "frame"
+   ],
+   "loop_ms": 1810,
+   "gesture_ms": 910,
+   "files": {
+    "web_loop": "web/loop/battery_android_full.svg",
+    "web_oneshot": "web/oneshot/battery_android_full.svg",
+    "android_loop": "android/drawable/avd_battery_android_full_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_full_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_plus",
    "index": 461,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its plus contracts and springs back.",
+   "parts": [
+    "frame",
+    "plus"
+   ],
+   "loop_ms": 1480,
+   "gesture_ms": 580,
+   "files": {
+    "web_loop": "web/loop/battery_android_plus.svg",
+    "web_oneshot": "web/oneshot/battery_android_plus.svg",
+    "android_loop": "android/drawable/avd_battery_android_plus_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_plus_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_question",
    "index": 462,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its question mark tilts, puzzled.",
+   "parts": [
+    "frame",
+    "q",
+    "qdot"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_android_question.svg",
+    "web_oneshot": "web/oneshot/battery_android_question.svg",
+    "android_loop": "android/drawable/avd_battery_android_question_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_question_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_share",
    "index": 463,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its share arrow darts forward.",
+   "parts": [
+    "frame",
+    "arrow"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/battery_android_share.svg",
+    "web_oneshot": "web/oneshot/battery_android_share.svg",
+    "android_loop": "android/drawable/avd_battery_android_share_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_share_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_android_shield",
    "index": 464,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The battery jolts and its shield pulses and rocks.",
+   "parts": [
+    "frame",
+    "shield"
+   ],
+   "loop_ms": 1640,
+   "gesture_ms": 740,
+   "files": {
+    "web_loop": "web/loop/battery_android_shield.svg",
+    "web_oneshot": "web/oneshot/battery_android_shield.svg",
+    "android_loop": "android/drawable/avd_battery_android_shield_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_android_shield_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_change",
    "index": 465,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The swap arrows turn half a turn inside the battery: the battery is changed.",
+   "parts": [
+    "batt",
+    "swap"
+   ],
+   "loop_ms": 1520,
+   "gesture_ms": 620,
+   "files": {
+    "web_loop": "web/loop/battery_change.svg",
+    "web_oneshot": "web/oneshot/battery_change.svg",
+    "android_loop": "android/drawable/avd_battery_change_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_change_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_20",
    "index": 466,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bolt zaps three times and the battery builds up again from its base with the incoming charge.",
+   "parts": [
+    "batt",
+    "bolt"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_charging_20.svg",
+    "web_oneshot": "web/oneshot/battery_charging_20.svg",
+    "android_loop": "android/drawable/avd_battery_charging_20_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_charging_20_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_20_2",
    "index": 467,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bolt zaps three times and the battery builds up again from its base with the incoming charge.",
+   "parts": [
+    "batt",
+    "bolt"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_charging_20_2.svg",
+    "web_oneshot": "web/oneshot/battery_charging_20_2.svg",
+    "android_loop": "android/drawable/avd_battery_charging_20_2_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_charging_20_2_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_30",
    "index": 468,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bolt zaps three times and the battery builds up again from its base with the incoming charge.",
+   "parts": [
+    "batt",
+    "bolt"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_charging_30.svg",
+    "web_oneshot": "web/oneshot/battery_charging_30.svg",
+    "android_loop": "android/drawable/avd_battery_charging_30_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_charging_30_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_30_2",
    "index": 469,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bolt zaps three times and the battery builds up again from its base with the incoming charge.",
+   "parts": [
+    "batt",
+    "bolt"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_charging_30_2.svg",
+    "web_oneshot": "web/oneshot/battery_charging_30_2.svg",
+    "android_loop": "android/drawable/avd_battery_charging_30_2_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_charging_30_2_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_50",
    "index": 470,
-   "status": "todo"
+   "status": "done",
+   "chunk": 8,
+   "concept": "The bolt zaps three times and the battery builds up again from its base with the incoming charge.",
+   "parts": [
+    "batt",
+    "bolt"
+   ],
+   "loop_ms": 1720,
+   "gesture_ms": 820,
+   "files": {
+    "web_loop": "web/loop/battery_charging_50.svg",
+    "web_oneshot": "web/oneshot/battery_charging_50.svg",
+    "android_loop": "android/drawable/avd_battery_charging_50_loop.xml",
+    "android_oneshot": "android/drawable/avd_battery_charging_50_oneshot.xml"
+   },
+   "generator": "0.9.1",
+   "date": "2026-11-02"
   },
   {
    "name": "battery_charging_50_2",
