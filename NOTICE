@@ -17,7 +17,24 @@ Modifications made to the original icons (Apache License 2.0, section 4(b)):
   draws a full battery. Their drawing is rebuilt from battery_0_bar of the
   same set (same outline) with the interior hole ending at the stated
   charge (tools/make_source_fixes.py, folder source_fixes)
+- "_off" and "_disabled" icons made from index 621 on (for example
+  cloud_off): while the slash moves, the matching icon of the same set (for
+  example cloud) is drawn, clipped, in the area the slash leaves; at rest
+  only the original icon is drawn. The file comment names the icon used.
+  car_seat_off has no matching icon in the set: a seated person drawn for
+  this project is used in the same way.
+- icons made from index 621 on whose drawing is a single shape (for example
+  call_made or cloud_upload): while moving, the path is drawn as clipped
+  pieces (for example the head and the shaft of an arrow); at rest only the
+  original path is drawn. The file comment says so.
+- clock_loader_10 ... clock_loader_90: while the wedge moves, two clipped
+  copies of the same path are drawn in place of it; at rest only the
+  original path is drawn.
 Every modified file carries a comment stating its origin and the changes.
+
+The generator used for the icons from index 621 on is in tools/m3a
+(Copyright 2026 Marco Morosi, Apache License, Version 2.0). It reads the
+Material Symbols sources, which are not included in its folder.
 
 Source: google/material-design-icons, folder symbols/web, style Rounded,
 weight 400, 24px. Exact upstream commit: see

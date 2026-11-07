@@ -8,11 +8,11 @@ Enjoy!
 
 ## Progress
 
-**620 / 4,157 icons completed** · 14.9%
+**1020 / 4,157 icons completed** · 24.5%
 
 Icons are being created strictly in alphabetical order, following the original Material Symbols collection. No skipping ahead!
 
-Progress is tracked in [`manifest.json`](manifest.json) and updated with every batch.
+Progress is tracked in [`manifest.json`](manifest.json) and updated with every batch. See [`CHANGELOG.md`](CHANGELOG.md) for the history of the batches.
 
 ---
 
@@ -88,9 +88,14 @@ d.start()
 
 For loop variants, check whether the Compose painter honors `repeatCount="-1"`. If not, use the framework `AnimatedVectorDrawable` for loops (also inside Compose through a Drawable painter) or restart the animation at the end of each cycle.
 
+## Generator
+
+The icons from 621 on are built by the scripts in [`tools/m3a`](tools/README.md): one spec per icon describes its parts, its motion and its concept, and the build checks the fixed rules above before writing the files.
+
 ## Licenses
 
 - Icons: derived from Google Material Symbols, Apache License 2.0.
+- Generator (`tools/`): Apache License 2.0.
 - Original source: [google/material-design-icons](https://github.com/google/material-design-icons).
 - See [LICENSE](LICENSE), [NOTICE](NOTICE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for licensing and attribution details.
 
